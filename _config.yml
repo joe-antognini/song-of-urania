@@ -1,0 +1,63 @@
+title:            The Song of Urania Podcast
+tagline:          A history of astronomy, from antiquity to the present
+#description:      Describe your website.
+canonical: https://www.songofurania.com
+url: https://www.songofurania.com
+
+# Owner/author information
+owner:
+  name:           Joe Antognini
+  email:          joe.antognini@gmail.com
+  github:         song-of-urania
+  twitter:        SongOfUrania
+  location:       "Los Angeles, California"
+  disqus:         songofurania
+
+tools:
+  standards:      "HTML, SCSS, Jekyll"
+  software:       "git"
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      comments: true
+
+# Links to include in top navigation
+# For external links add external: true
+links:
+  - title: About
+    url: /about
+  - title: RSS
+    url: /rss
+
+# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone:    America/Los_Angeles
+future:      true
+highlighter: rouge
+markdown:    kramdown
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  use_coderay: false
+  input: GFM
+
+  coderay:
+    coderay_line_numbers:
+    coderay_line_numbers_start: 1
+    coderay_tab_width: 4
+    coderay_bold_every: 10
+    coderay_css: class
+
+sass:
+    style: :compressed
+
+# https://github.com/mojombo/jekyll/wiki/Permalinks
+permalink:   /:categories/:title
+
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp"]
