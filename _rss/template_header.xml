@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:cc="http://web.resource.org/cc/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+	<channel>
+		<atom:link href="https://songofurania.com/rss" rel="self" type="application/rss+xml"/>
+		<title>The Song of Urania</title>
+		<link>https://songofurania.com</link>
+		<language>en</language>
+		<copyright><![CDATA[Creative Commons Attribution 4.0 International (CC BY 4.0)]]></copyright>
+		<docs>https://songofurania.com</docs>
+		<managingEditor>joe@songofurania.com (joe@songofurania.com)</managingEditor>
+		<itunes:summary><![CDATA[A history of astronomy, from antiquity to the present.]]></itunes:summary>
+		<image>
+			<url>https://storage.googleapis.com/song-of-urania/images/song-of-urania.jpg</url>
+			<title>The Song of Urania</title>
+			<link><![CDATA[https://songofurania.com]]></link>
+		</image>
+		<itunes:author>Joe Antognini</itunes:author>
+		<itunes:keywords>astronomy,history</itunes:keywords>
+		<itunes:category text="Science">
+			<itunes:category text="Astronomy"/>
+		</itunes:category>
+		<itunes:category text="History"/>
+		<itunes:image href="https://storage.googleapis.com/song-of-urania/images/song-of-urania.jpg" />
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:owner>
+			<itunes:name><![CDATA[Joe Antognini]]></itunes:name>
+			<itunes:email>joe@songofurania.com</itunes:email>
+		</itunes:owner>
+		<description><![CDATA[A history of astronomy, from antiquity to the present.]]></description>
+		<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+		<itunes:type>serial</itunes:type>
+	</channel>
+</rss>
+

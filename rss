@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:cc="http://web.resource.org/cc/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/"  xmlns:podcast="https://github.com/Podcastindex-org/podcast-namespace/blob/main/docs/1.0.md"  xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+	<channel>
+		<atom:link href="https://songofurania.com/rss" rel="self" type="application/rss+xml"/>
+		<title>The Song of Urania</title>
+		<pubDate>Sat, 24 Jul 2021 01:00:00 +0000</pubDate>
+		<lastBuildDate>Wed, 11 Aug 2021 01:35:13 +0000</lastBuildDate>
+		<link>https://songofurania.com</link>
+		<language>en</language>
+		<copyright><![CDATA[Creative Commons Attribution 4.0 International (CC BY 4.0)]]></copyright>
+		<docs>https://songofurania.com</docs>
+		<managingEditor>joe.antognini@gmail.com (joe.antognini@gmail.com)</managingEditor>
+		<itunes:summary><![CDATA[A history of astronomy, from antiquity to the present.]]></itunes:summary>
+		<image>
+			<url>https://songofurania.com/images/logo.jpeg</url>
+			<title>The Song of Urania</title>
+			<link><![CDATA[https://songofurania.com]]></link>
+		</image>
+		<itunes:author>Joe Antognini</itunes:author>
+		<itunes:keywords>Astronomy,History</itunes:keywords>
+		<itunes:category text="Science">
+			<itunes:category text="Astronomy"/>
+		</itunes:category>
+		<itunes:category text="History"/>
+        <itunes:image href="https://songofurania.com/images/logo.jpeg" />
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:owner>
+			<itunes:name><![CDATA[Joe Antognini]]></itunes:name>
+			<itunes:email>joe.antognini@gmail.com</itunes:email>
+		</itunes:owner>
+		<description><![CDATA[A history of astronomy, from antiquity to the present.]]></description>
+		<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+		<itunes:type>serial</itunes:type>
+		<item>
+			<title>Episode 7: Greek Tales of Ancient Nights &amp; Days</title>
+			<itunes:title>Greek Tales of Ancient Nights &amp; Days</itunes:title>
+			<pubDate>Sat, 24 Jul 2021 01:00:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[41619159-7662-481f-982e-9b8dafa3b45b]]></guid>
+            <link><![CDATA[https://songofurania.com/episodes/007]]></link>
+			<itunes:image href="https://songofurania.com/images/logo.jpeg" />
+			<description><![CDATA[<p>As we start to examine the astronomy of Ancient Greece we hear of the myth cycles of Theseus and Perseus, episodes from both of which appear in the night sky. These myth cycles help us to understand the conception the ancient Greeks had to the civilizations that came before them, the Minoans and the Mycenaeans and prepare us for the early cosmology of ancient Greece.</p>]]></description>
+			<content:encoded><![CDATA[<p>As we start to examine the astronomy of Ancient Greece we hear of the myth cycles of Theseus and Perseus, episodes from both of which appear in the night sky. These myth cycles help us to understand the conception the ancient Greeks had to the civilizations that came before them, the Minoans and the Mycenaeans and prepare us for the early cosmology of ancient Greece.</p>]]></content:encoded>
+            <enclosure length="47151732" type="audio/mpeg" url="https://storage.googleapis.com/song-of-urania/episodes/episode-007.mp3" />
+			<itunes:duration>53:12</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[As we start to examine the astronomy of Ancient Greece we hear of the myth cycles of Theseus and Perseus, episodes from both of which appear in the night sky. These myth cycles help us to understand the conception the ancient Greeks had to the...]]></itunes:subtitle>
+			<itunes:summary>As we start to examine the astronomy of Ancient Greece we hear of the myth cycles of Theseus and Perseus, episodes from both of which appear in the night sky. These myth cycles help us to understand the conception the ancient Greeks had to the civilizations that came before them, the Minoans and the Mycenaeans and prepare us for the early cosmology of ancient Greece.</itunes:summary>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>7</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Joe Antognini</itunes:author>
+		</item>
+		<item>
+			<title>Episode 6: System of a B</title>
+			<itunes:title>System of a B</itunes:title>
+			<pubDate>Fri, 25 Jun 2021 08:17:29 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[703b0754-62be-4bc0-a7a1-3535a904ab49]]></guid>
+			<link><![CDATA[https://songofurania.com/episodes/006]]></link>
+			<itunes:image href="https://songofurania.com/images/logo.jpeg" />
+			<description><![CDATA[<p>We dive into the most sophisticated model of planetary and lunar motions that the Babylonians developed: System A and System B and see how the Babylonians used this method to predict eclipses, the length of months, and even measure the precession of the perihelion.</p>]]></description>
+			<content:encoded><![CDATA[<p>We dive into the most sophisticated model of planetary and lunar motions that the Babylonians developed: System A and System B and see how the Babylonians used this method to predict eclipses, the length of months, and even measure the precession of the perihelion.</p>]]></content:encoded>
+			<enclosure length="38923830" type="audio/mpeg" url="https://storage.googleapis.com/song-of-urania/episodes/episode-006.mp3" />
+			<itunes:duration>39:39</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:keywords>History,Astronomy,babylonia</itunes:keywords>
+			<itunes:subtitle><![CDATA[We dive into the most sophisticated model of planetary and lunar motions that the Babylonians developed: System A and System B and see how the Babylonians used this method to predict eclipses, the length of months, and even measure the precession of...]]></itunes:subtitle>
+			<itunes:summary>We dive into the most sophisticated model of planetary and lunar motions that the Babylonians developed: System A and System B and see how the Babylonians used this method to predict eclipses, the length of months, and even measure the precession of the perihelion.</itunes:summary>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>6</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Joe Antognini</itunes:author>
+		</item>
+		<item>
+			<title>Episode 5: A System of Weights &amp; Measures</title>
+			<itunes:title>A System of Weights &amp; Measures</itunes:title>
+			<pubDate>Thu, 27 May 2021 06:21:22 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[303e8050-6f6f-4a72-a12e-69dd50076352]]></guid>
+			<link><![CDATA[https://songofurania.com/episodes/005]]></link>
+			<itunes:image href="https://songofurania.com/images/logo.jpeg" />
+			<description><![CDATA[<p>We look at how the Babylonians represented information in their astronomical tablets by examining their number system and the unit system. Then we dive into the Babylonian discovery of the Saros cycle, which was a deep regularity in the pattern of lunar eclipses.</p>]]></description>
+			<content:encoded><![CDATA[<p>We look at how the Babylonians represented information in their astronomical tablets by examining their number system and the unit system. Then we dive into the Babylonian discovery of the Saros cycle, which was a deep regularity in the pattern of lunar eclipses.</p>]]></content:encoded>
+			<enclosure length="42625383" type="audio/mpeg" url="https://storage.googleapis.com/song-of-urania/episodes/episode-005.mp3" />
+			<itunes:duration>42:45</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:keywords>eclipse,History,Astronomy,babylonia</itunes:keywords>
+			<itunes:subtitle><![CDATA[We look at how the Babylonians represented information in their astronomical tablets by examining their number system and the unit system. Then we dive into the Babylonian discovery of the Saros cycle, which was a deep regularity in the pattern of...]]></itunes:subtitle>
+			<itunes:summary>We look at how the Babylonians represented information in their astronomical tablets by examining their number system and the unit system. Then we dive into the Babylonian discovery of the Saros cycle, which was a deep regularity in the pattern of lunar eclipses.</itunes:summary>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>5</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Joe Antognini</itunes:author>
+		</item>
+		<item>
+			<title>Episode 4: The Astronomical Diaries</title>
+			<itunes:title>The Astronomical Diaries</itunes:title>
+			<pubDate>Tue, 27 Apr 2021 07:48:32 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[729dea7a-ca1f-4176-bfcd-8a78d2e051a4]]></guid>
+			<link><![CDATA[https://songofurania.com/episodes/004]]></link>
+			<itunes:image href="https://songofurania.com/images/logo.jpeg" />
+			<description><![CDATA[<p>We step back and look at Babylon's broader political history and see how Babylonian astronomy changes during the rise of the Neo-Babylonian Empire and the Persian Conquest. Then we look at some of the types of astronomical records the Babylonians produced, particularly the Astronomical Diaries, the longest continuous research program of any society in history.</p>]]></description>
+			<content:encoded><![CDATA[<p>We step back and look at Babylon's broader political history and see how Babylonian astronomy changes during the rise of the Neo-Babylonian Empire and the Persian Conquest. Then we look at some of the types of astronomical records the Babylonians produced, particularly the Astronomical Diaries, the longest continuous research program of any society in history.</p>]]></content:encoded>
+			<enclosure length="51276853" type="audio/mpeg" url="https://storage.googleapis.com/song-of-urania/episodes/episode-004.mp3" />
+			<itunes:duration>51:59</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:keywords>History,Astronomy,persia,babylonia</itunes:keywords>
+			<itunes:subtitle><![CDATA[We step back and look at Babylon's broader political history and see how Babylonian astronomy changes during the rise of the Neo-Babylonian Empire and the Persian Conquest. Then we look at some of the types of astronomical records the Babylonians...]]></itunes:subtitle>
+			<itunes:summary>We step back and look at Babylon's broader political history and see how Babylonian astronomy changes during the rise of the Neo-Babylonian Empire and the Persian Conquest. Then we look at some of the types of astronomical records the Babylonians produced, particularly the Astronomical Diaries, the longest continuous research program of any society in history.</itunes:summary>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>4</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Joe Antognini</itunes:author>
+		</item>
+		<item>
+			<title>Episode 3: When the Moon Disappears</title>
+			<itunes:title>When the Moon Disappears</itunes:title>
+			<pubDate>Sun, 28 Mar 2021 23:06:12 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[af0c9137-d1d5-4ec0-8187-844cea383593]]></guid>
+			<link><![CDATA[https://songofurania.com/episodes/003]]></link>
+			<itunes:image href="https://songofurania.com/images/logo.jpeg" />
+			<description><![CDATA[<p>We look at how the Babylonians associated the heavens with their gods and how Mesopotamian astrology developed after the Assyrian conquest. We hear some examples of astrological omens and see how Babylonians handled the most malevolent of omens, the lunar eclipse.</p>]]></description>
+			<content:encoded><![CDATA[<p>We look at how the Babylonians associated the heavens with their gods and how Mesopotamian astrology developed after the Assyrian conquest. We hear some examples of astrological omens and see how Babylonians handled the most malevolent of omens, the lunar eclipse.</p>]]></content:encoded>
+			<enclosure length="40218427" type="audio/mpeg" url="https://storage.googleapis.com/song-of-urania/episodes/episode-003.mp3" />
+			<itunes:duration>42:28</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:keywords>History,Astronomy,lunareclipse,babylonia</itunes:keywords>
+			<itunes:subtitle><![CDATA[We look at how the Babylonians associated the heavens with their gods and how Mesopotamian astrology developed after the Assyrian conquest. We hear some examples of astrological omens and see how Babylonians handled the most malevolent of omens, the...]]></itunes:subtitle>
+			<itunes:summary>We look at how the Babylonians associated the heavens with their gods and how Mesopotamian astrology developed after the Assyrian conquest. We hear some examples of astrological omens and see how Babylonians handled the most malevolent of omens, the lunar eclipse.</itunes:summary>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>3</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Joe Antognini</itunes:author>
+		</item>
+		<item>
+			<title>Episode 2: The Stars over Babylon</title>
+			<itunes:title>The Stars over Babylon</itunes:title>
+			<pubDate>Sun, 28 Feb 2021 02:10:26 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[29f4b754-ff8d-4c55-b970-4b6adc701bad]]></guid>
+			<link><![CDATA[https://songofurania.com/episodes/002]]></link>
+			<itunes:image href="https://songofurania.com/images/logo.jpeg" />
+			<description><![CDATA[<p>What are the earliest records of constellations? How did the ancient Babylonians keep track of their progress through the year? And how do we know what we know about Babylonia?</p>]]></description>
+			<content:encoded><![CDATA[<p>What are the earliest records of constellations? How did the ancient Babylonians keep track of their progress through the year? And how do we know what we know about Babylonia?</p>]]></content:encoded>
+			<enclosure length="43042896" type="audio/mpeg" url="https://storage.googleapis.com/song-of-urania/episodes/episode-002.mp3" />
+			<itunes:duration>45:34</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:keywords>History,Astronomy,babylonia</itunes:keywords>
+			<itunes:subtitle><![CDATA[What are the earliest records of constellations? How did the ancient Babylonians keep track of their progress through the year? And how do we know what we know about Babylonia?]]></itunes:subtitle>
+			<itunes:summary>What are the earliest records of constellations? How did the ancient Babylonians keep track of their progress through the year? And how do we know what we know about Babylonia?</itunes:summary>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>2</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Joe Antognini</itunes:author>
+		</item>
+		<item>
+			<title>Episode 1: The Heavens &amp; History</title>
+			<itunes:title>The Heavens &amp; History</itunes:title>
+			<pubDate>Fri, 29 Jan 2021 06:34:39 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[abdef236-f866-41ab-9628-f8c8ffffeeae]]></guid>
+			<link><![CDATA[https://songofurania.com/episodes/001]]></link>
+			<itunes:image href="https://songofurania.com/images/logo.jpeg" />
+			<description><![CDATA[<p>How should we approach the history of astronomy?  How have the questions that astronomers have asked changed through the ages?  We look at some of these questions and sketch out the broad arc of this field from antiquity to the present day.</p>]]></description>
+			<content:encoded><![CDATA[<p>How should we approach the history of astronomy?  How have the questions that astronomers have asked changed through the ages?  We look at some of these questions and sketch out the broad arc of this field from antiquity to the present day.</p>]]></content:encoded>
+			<enclosure length="28609129" type="audio/mpeg" url="https://storage.googleapis.com/song-of-urania/episodes/episode-001.mp3" />
+			<itunes:duration>30:32</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:keywords>History,Astronomy</itunes:keywords>
+			<itunes:subtitle><![CDATA[How should we approach the history of astronomy?  How have the questions that astronomers have asked changed through the ages?  We look at some of these questions and sketch out the broad arc of this field from antiquity to the present day.]]></itunes:subtitle>
+			<itunes:summary>How should we approach the history of astronomy?  How have the questions that astronomers have asked changed through the ages?  We look at some of these questions and sketch out the broad arc of this field from antiquity to the present day.</itunes:summary>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>1</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Joe Antognini</itunes:author>
+		</item>
+	</channel>
+</rss>
