@@ -1,8 +1,10 @@
 title:            The Song of Urania Podcast
 tagline:          A history of astronomy, from antiquity to the present
 #description:      Describe your website.
-canonical: https://www.songofurania.com
-url: https://www.songofurania.com
+#canonical: https://www.songofurania.com
+#url: https://www.songofurania.com
+canonical: https://joe-antognini.github.io/song-of-urania/
+url: https://joe-antognini.github.io/song-of-urania/
 
 # Owner/author information
 owner:
