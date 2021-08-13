@@ -17,7 +17,7 @@ import feedparser
 import librosa
 
 REQUIRED_ITEMS = ['title', 'number', 'description', 'keywords']
-GCS_DIRECTORY = 'gs://song-of-urania/'  # TODO: Fix link.
+GCS_DIRECTORY = 'gs://song-of-urania/episodes'
 WEBSITE = 'https://songofurania.com'
 
 # TODO:
@@ -127,6 +127,33 @@ def get_namespaces(filename):
     return dict([n for _, n in namespaces])
 
 
+def abbreviate_str(s, n_chars=255):
+    """Abbreviate the given string to be at most `n_chars` characters long."""
+    if len(s) <= n_chars:
+        return s
+
+    words = s.split()
+    abbreviated_words = []
+    total = 0
+    for i, word in enumerate(words):
+        if total + len(word) + 1 > n_chars:
+            last_word = word
+            while total + len(last_word) + 1 > n_chars:
+                if len(abbreviated_words) > 1:
+                    last_word = abbreviated_words.pop()
+                    abbreviated_str = ''.join(abbreviated_words) + '...'
+                else:
+                    abbreviated_str = abbreviated_words[0][:n_chars-3] + '...'
+                    break
+        else:
+            abbreviated_words.append(word)
+            total += len(word)
+            if i > 0:
+                total += 1  # Include the space before the word.
+
+    return abbreviated_str
+
+
 def update_new_episode_node(node, metadata, namespaces, mp3_filename):
     itunes_ns = namespaces['itunes']
     node.find('title').text = (
@@ -204,8 +231,7 @@ def upload_to_gcs(mp3_filename, metadata):
             f'Expected filename "episode-{metadata["number"]:03}.mp3" but got '
             f'{mp3_filename}.'
         )
-    gcs_path = os.path.join(GCS_DIRECTORY, 'episodes')
-    subprocess.check_call(['gsutil', 'cp', mp3_filename, gcs_path])
+    subprocess.check_call(['gsutil', 'cp', mp3_filename, GCS_DIRECTORY])
 
 
 def update_webpage(metadata):
