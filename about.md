@@ -18,5 +18,11 @@ You should be able to find The Song of Urania wherever you get your podcasts,
 including the following places:
 
 * [Apple podcasts](https://podcasts.apple.com/us/podcast/the-song-of-urania/id1569553383)
+* [Google
+  podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9zb25nb2Z1cmFuaWEuY29tL3Jzcw)
 * [Spotify](https://open.spotify.com/show/412pyUrUCtPtP9yWCRRsnt)
-* [RSS](/rss)
+* [Stitcher](https://www.stitcher.com/show/the-song-of-urania)
+
+Or you can use a good old fashioned RSS link here:
+
+* https://songofurania.com/rss
