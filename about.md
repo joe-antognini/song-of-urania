@@ -25,4 +25,4 @@ including the following places:
 
 Or you can use a good old fashioned RSS link here:
 
-* https://songofurania.com/rss
+* [https://songofurania.com/rss](https://songofurania.com/rss)
