@@ -3,8 +3,8 @@
 	<channel>
 		<atom:link href="https://songofurania.com/rss" rel="self" type="application/rss+xml"/>
 		<title>The Song of Urania</title>
-		<pubDate>Sat, 24 Jul 2021 01:00:00 +0000</pubDate>
-		<lastBuildDate>Wed, 11 Aug 2021 01:35:13 +0000</lastBuildDate>
+		<pubDate>Mon, 23 Aug 2021 07:00:10 +0000</pubDate>
+		<lastBuildDate>Mon, 23 Aug 2021 07:00:10 +0000</lastBuildDate>
 		<link>https://songofurania.com</link>
 		<language>en</language>
 		<copyright><![CDATA[Creative Commons Attribution 4.0 International (CC BY 4.0)]]></copyright>
@@ -31,6 +31,26 @@
 		<description><![CDATA[A history of astronomy, from antiquity to the present.]]></description>
 		<itunes:subtitle><![CDATA[]]></itunes:subtitle>
 		<itunes:type>serial</itunes:type>
+		<item>
+			<title>Episode 8: The Bards Sing of the Skies</title>
+			<itunes:title>The Bards Sing of the Skies</itunes:title>
+			<pubDate>Mon, 23 Aug 2021 07:01:10 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[0bc5f4ae-6659-48dc-99c3-76b734d4c29e]]></guid>
+            <link><![CDATA[https://songofurania.com/episodes/008]]></link>
+			<itunes:image href="https://songofurania.com/images/logo.jpeg" />
+			<description><![CDATA[<p>We outline the early development of Greek civilization after the Late Bronze Age Collapse and how the unique geography of Greece influenced its culture, and ultimately, its astronomy. Then we explore the cosmology, cosmogony, and astronomy of the earliest Greeks based on the works of Homer and Hesiod.</p>]]></description>
+			<content:encoded><![CDATA[<p>We outline the early development of Greek civilization after the Late Bronze Age Collapse and how the unique geography of Greece influenced its culture, and ultimately, its astronomy. Then we explore the cosmology, cosmogony, and astronomy of the earliest Greeks based on the works of Homer and Hesiod.</p>]]></content:encoded>
+            <enclosure length="47151732" type="audio/mpeg" url="https://storage.googleapis.com/song-of-urania/episodes/episode-008.mp3" />
+			<itunes:duration>50:31</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[We outline the early development of Greek civilization after the Late Bronze Age Collapse and how the unique geography of Greece influenced its culture, and ultimately, its astronomy....]]></itunes:subtitle>
+			<itunes:summary>We outline the early development of Greek civilization after the Late Bronze Age Collapse and how the unique geography of Greece influenced its culture, and ultimately, its astronomy. Then we explore the cosmology, cosmogony, and astronomy of the earliest Greeks based on the works of Homer and Hesiod.</itunes:summary>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>8</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Joe Antognini</itunes:author>
+		</item>
 		<item>
 			<title>Episode 7: Greek Tales of Ancient Nights &amp; Days</title>
 			<itunes:title>Greek Tales of Ancient Nights &amp; Days</itunes:title>
