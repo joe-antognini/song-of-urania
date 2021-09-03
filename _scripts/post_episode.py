@@ -5,10 +5,11 @@ import os
 import subprocess
 import sys
 import uuid
-import xml.etree.ElementTree as ET
 import yaml
 from copy import deepcopy
 from datetime import datetime
+from lxml import etree
+from lxml.etree import ElementTree as ET
 from pkg_resources import resource_filename
 from yaml.scanner import ScannerError
 
@@ -92,6 +93,7 @@ def get_new_episode_metadata():
 
     description = new_episode_metadata['description']
     description = description.replace('\n', ' ')
+    description = description.strip()
     new_episode_metadata['description'] = description
 
     return new_episode_metadata
@@ -129,7 +131,7 @@ def get_formatted_duration(mp3_filename):
 
 
 def get_namespaces(filename):
-    namespaces = ET.iterparse(filename, events=['start-ns'])
+    namespaces = etree.iterparse(filename, events=['start-ns'])
     return dict([n for _, n in namespaces])
 
 
@@ -167,33 +169,46 @@ def update_new_episode_node(node, metadata, namespaces, mp3_filename):
     )
     node.find(f'{{{itunes_ns}}}title').text = metadata['title']
     node.find('pubDate').text = get_formatted_pubdate()
-    node.find('guid').text = str(uuid.uuid4())
+    node.find('guid').text = etree.CDATA(str(uuid.uuid4()))
 
-    url = os.path.join(GCS_DIRECTORY, f'episode-{metadata["number"]:03}.mp3')
-    node.find('link').text = os.path.join(
-        WEBSITE, 'episodes', str(metadata['number'])
+    node.find('link').text = etree.CDATA(
+        os.path.join(WEBSITE, 'episodes', f'{metadata["number"]:03}')
     )
-    node.find('description').text = '<p>' + metadata['description'] + '</p>'
-    node.find(f'{{{namespaces["content"]}}}encoded').text = (
+    node.find('description').text = etree.CDATA(
         '<p>' + metadata['description'] + '</p>'
     )
-    node.find('enclosure').attrib['length'] = os.path.getsize(mp3_filename)
-    node.find('enclosure').attrib['url'] = url
+    node.find(f'{{{namespaces["content"]}}}encoded').text = etree.CDATA(
+        '<p>' + metadata['description'] + '</p>'
+    )
+    node.find('enclosure').attrib['length'] = str(
+        os.path.getsize(mp3_filename)
+    )
+    node.find('enclosure').attrib['url'] = os.path.join(
+        GCS_DIRECTORY, f'episode-{metadata["number"]:03}.mp3'
+    )
     node.find(f'{{{itunes_ns}}}duration').text = get_formatted_duration(
         mp3_filename
     )
     node.find(f'{{{itunes_ns}}}keywords').text = ','.join(metadata['keywords'])
-    node.find(f'{{{itunes_ns}}}subtitle').text = metadata['description']
+    node.find(f'{{{itunes_ns}}}subtitle').text = etree.CDATA(
+        metadata['description']
+    )
     node.find(f'{{{itunes_ns}}}summary').text = metadata['description']
-    node.find(f'{{{itunes_ns}}}episode').text = metadata['number']
+    node.find(f'{{{itunes_ns}}}episode').text = str(metadata['number'])
 
     return node
 
 
 def update_rss(rss_filename, mp3_filename):
-    tree = ET.parse(rss_filename)
+    parser = etree.XMLParser(strip_cdata=False)
+    tree = etree.parse(rss_filename, parser)
     rss = tree.getroot()
     namespaces = get_namespaces(rss_filename)
+
+    # Necessary to keep the prefixes of the namespaces the same rather than
+    # reverting to Python's default of 'ns0', 'ns1', etc.
+    #for prefix, uri in namespaces.items():
+    #    ET.register_namespace(prefix, uri)
     validate_rss(rss_filename)
 
     new_episode_metadata = get_new_episode_metadata()
