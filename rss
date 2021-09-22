@@ -39,7 +39,7 @@
 			<itunes:image href="https://songofurania.com/images/logo.jpeg"/>
 			<description><![CDATA[<p>Thales was the first of the Greek astronomers and became known as one of the Seven Sages of Greece. Over the centuries many astronomical discoveries were attributed to him, but what was the reality and what was the hyperbole?</p>]]></description>
 			<content:encoded><![CDATA[<p>Thales was the first of the Greek astronomers and became known as one of the Seven Sages of Greece. Over the centuries many astronomical discoveries were attributed to him, but what was the reality and what was the hyperbole?</p>]]></content:encoded>
-            <enclosure length="51995097" type="audio/mpeg" url="gs://song-of-urania/episodes/episode-009.mp3"/>
+            <enclosure length="51995097" type="audio/mpeg" url="https://storage.googleapis.com/song-of-urania/episodes/episode-009.mp3"/>
 			<itunes:duration>61:04</itunes:duration>
 			<itunes:explicit>no</itunes:explicit>
 			<itunes:keywords>astronomy,history</itunes:keywords>
