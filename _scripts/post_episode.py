@@ -19,6 +19,7 @@ import librosa
 
 REQUIRED_ITEMS = ['title', 'number', 'description', 'keywords']
 GCS_DIRECTORY = 'gs://song-of-urania/episodes'
+GCS_URL = 'https://storage.googleapis.com/song-of-urania/episodes'
 WEBSITE = 'https://songofurania.com'
 
 # TODO:
@@ -184,7 +185,7 @@ def update_new_episode_node(node, metadata, namespaces, mp3_filename):
         os.path.getsize(mp3_filename)
     )
     node.find('enclosure').attrib['url'] = os.path.join(
-        GCS_DIRECTORY, f'episode-{metadata["number"]:03}.mp3'
+        GCS_URL, f'episode-{metadata["number"]:03}.mp3'
     )
     node.find(f'{{{itunes_ns}}}duration').text = get_formatted_duration(
         mp3_filename
