@@ -2,8 +2,8 @@
 	<channel>
 		<atom:link href="https://songofurania.com/rss" rel="self" type="application/rss+xml"/>
 		<title>The Song of Urania</title>
-		<pubDate>Wed, 24 Nov 2021 07:49:12 +0000</pubDate>
-		<lastBuildDate>Wed, 24 Nov 2021 07:49:12 +0000</lastBuildDate>
+		<pubDate>Tue, 21 Dec 2021 07:59:00 +0000</pubDate>
+		<lastBuildDate>Tue, 21 Dec 2021 07:59:00 +0000</lastBuildDate>
 		<link>https://songofurania.com</link>
 		<language>en</language>
 		<copyright><![CDATA[Creative Commons Attribution 4.0 International (CC BY 4.0)]]></copyright>
@@ -30,6 +30,26 @@
 		<description><![CDATA[A history of astronomy, from antiquity to the present.]]></description>
 		<itunes:subtitle><![CDATA[]]></itunes:subtitle>
 		<itunes:type>serial</itunes:type>
+		<item>
+			<title>Episode 12: The Eleatic School &amp; the Way of Truthiness</title>
+			<itunes:title>The Eleatic School &amp; the Way of Truthiness</itunes:title>
+			<pubDate>Tue, 21 Dec 2021 07:58:59 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[14edf1f9-7e4a-4b2a-86f3-089ed7eac5b0]]></guid>
+            <link><![CDATA[https://songofurania.com/episodes/012]]></link>
+			<itunes:image href="https://songofurania.com/images/logo.jpeg"/>
+			<description><![CDATA[<p>After the Median invasion, the Ionian philosopher Xenophanes, a student of the Anaximander, was forced to flee to Elea in Magna Graecia and brought the philosophy of Ionians to the Eleans. His student, Parmenides, then founded the Eleatic School, which was skeptical of the senses, and argued that despite its appearance to the contrary, the Earth was round. Parmenides's student, Zeno, in turn developed his famous paradoxes to prove his teacher's assertion that motion was an illusion.</p>]]></description>
+			<content:encoded><![CDATA[<p>After the Median invasion, the Ionian philosopher Xenophanes, a student of the Anaximander, was forced to flee to Elea in Magna Graecia and brought the philosophy of Ionians to the Eleans. His student, Parmenides, then founded the Eleatic School, which was skeptical of the senses, and argued that despite its appearance to the contrary, the Earth was round. Parmenides's student, Zeno, in turn developed his famous paradoxes to prove his teacher's assertion that motion was an illusion.</p>]]></content:encoded>
+            <enclosure length="54618471" type="audio/mpeg" url="https://storage.googleapis.com/song-of-urania/episodes/episode-012.mp3"/>
+			<itunes:duration>63:42</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords>astronomy,history,greece,philosophy</itunes:keywords>
+			<itunes:subtitle><![CDATA[After the Median invasion, the Ionian philosopher Xenophanes, a student of the Anaximander, was forced to flee to Elea in Magna Graecia and brought the philosophy of Ionians to the Eleans. His student, Parmenides, then founded the Eleatic School, which was skeptical of the senses, and argued that despite its appearance to the contrary, the Earth was round. Parmenides's student, Zeno, in turn developed his famous paradoxes to prove his teacher's assertion that motion was an illusion.]]></itunes:subtitle>
+			<itunes:summary>After the Median invasion, the Ionian philosopher Xenophanes, a student of the Anaximander, was forced to flee to Elea in Magna Graecia and brought the philosophy of Ionians to the Eleans. His student, Parmenides, then founded the Eleatic School, which was skeptical of the senses, and argued that despite its appearance to the contrary, the Earth was round. Parmenides's student, Zeno, in turn developed his famous paradoxes to prove his teacher's assertion that motion was an illusion.</itunes:summary>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>12</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Joe Antognini</itunes:author>
+		</item>
 		<item>
 			<title>Episode 11: The So-Called Pythagoreans</title>
 			<itunes:title>The So-Called Pythagoreans</itunes:title>
