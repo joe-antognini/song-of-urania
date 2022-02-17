@@ -2,8 +2,8 @@
 	<channel>
 		<atom:link href="https://songofurania.com/rss" rel="self" type="application/rss+xml"/>
 		<title>The Song of Urania</title>
-		<pubDate>Thu, 20 Jan 2022 06:26:35 +0000</pubDate>
-		<lastBuildDate>Thu, 20 Jan 2022 06:26:35 +0000</lastBuildDate>
+		<pubDate>Thu, 17 Feb 2022 07:56:40 +0000</pubDate>
+		<lastBuildDate>Thu, 17 Feb 2022 07:56:40 +0000</lastBuildDate>
 		<link>https://songofurania.com</link>
 		<language>en</language>
 		<copyright><![CDATA[Creative Commons Attribution 4.0 International (CC BY 4.0)]]></copyright>
@@ -31,20 +31,40 @@
 		<itunes:subtitle><![CDATA[]]></itunes:subtitle>
 		<itunes:type>serial</itunes:type>
 		<item>
+			<title>Episode 14: The Atomic Philosophers</title>
+			<itunes:title>The Atomic Philosophers</itunes:title>
+			<pubDate>Thu, 17 Feb 2022 07:56:40 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[48a912f9-c234-4293-9bbe-fa173b4f7a3e]]></guid>
+            <link><![CDATA[https://songofurania.com/episodes/014]]></link>
+			<itunes:image href="https://songofurania.com/images/logo.jpeg"/>
+			<description><![CDATA[<p>Two philosophers, Leucippus and Democritus, attempted to synthesize the monist theories of the earlier natural philosophers with the pluralist theories of Empedocles and Anaxagoras.  To do this, they proposed a revolutionary idea --- that all matter is made of atoms.</p>]]></description>
+			<content:encoded><![CDATA[<p>Two philosophers, Leucippus and Democritus, attempted to synthesize the monist theories of the earlier natural philosophers with the pluralist theories of Empedocles and Anaxagoras.  To do this, they proposed a revolutionary idea --- that all matter is made of atoms.</p>]]></content:encoded>
+            <enclosure length="46019319" type="audio/mpeg" url="https://storage.googleapis.com/song-of-urania/episodes/episode-014.mp3"/>
+			<itunes:duration>52:52</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords>astronomy,history,greece,physics</itunes:keywords>
+			<itunes:subtitle><![CDATA[Two philosophers, Leucippus and Democritus, attempted to synthesize the monist theories of the earlier natural philosophers with the pluralist theories of Empedocles and Anaxagoras.  To do this, they proposed a revolutionary idea --- that all matter is made of atoms.]]></itunes:subtitle>
+			<itunes:summary>Two philosophers, Leucippus and Democritus, attempted to synthesize the monist theories of the earlier natural philosophers with the pluralist theories of Empedocles and Anaxagoras.  To do this, they proposed a revolutionary idea --- that all matter is made of atoms.</itunes:summary>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>14</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Joe Antognini</itunes:author>
+		</item>
+		<item>
 			<title>Episode 13: Ex Uno, Plura</title>
 			<itunes:title>Ex Uno, Plura</itunes:title>
 			<pubDate>Thu, 20 Jan 2022 06:26:34 +0000</pubDate>
 			<guid isPermaLink="false"><![CDATA[d81ce63a-bd64-4bba-be75-40d3001ee891]]></guid>
             <link><![CDATA[https://songofurania.com/episodes/013]]></link>
 			<itunes:image href="https://songofurania.com/images/logo.jpeg"/>
-			<description><![CDATA[<p>As we transition from the Archaic Period of Greece to the Classical Period, two philosophers, Empedocles and Anaxagoras, rebel against the prevailing dogma of monism and present a new idea — that matter consists of mixtures of multiple fundamental elements.</p><p>Thanks to William Little of Ohio State for help with the Latin to get the opposite of "E pluribus unum" for the title.</p><p>If you would like to register for the Stellar Spectacles symposium that I mentioned at the beginning of the episode, go to <a href=www.asxsociety.com>www.asxsociety.com<a>.</p>]]></description>
-			<content:encoded><![CDATA[<p>As we transition from the Archaic Period of Greece to the Classical Period, two philosophers, Empedocles and Anaxagoras, rebel against the prevailing dogma of monism and present a new idea — that matter consists of mixtures of multiple fundamental elements.</p><p>Thanks to William Little of Ohio State for help with the Latin to get the opposite of "E pluribus unum" for the title.</p><p>If you would like to register for the Stellar Spectacles symposium that I mentioned at the beginning of the episode, go to <a href=www.asxsociety.com>www.asxsociety.com</a></p>]]></content:encoded>
+			<description><![CDATA[<p>As we transition from the Archaic Period of Greece to the Classical Period, two philosophers, Empedocles and Anaxagoras, rebel against the prevailing dogma of monism and present a new idea &#8212; that matter consists of mixtures of multiple fundamental elements.</p><p>Thanks to William Little of Ohio State for help with the Latin to get the opposite of "E pluribus unum" for the title.</p><p>If you would like to register for the Stellar Spectacles symposium that I mentioned at the beginning of the episode, go to <a href=www.asxsociety.com>www.asxsociety.com<a>.</p>]]></description>
+			<content:encoded><![CDATA[<p>As we transition from the Archaic Period of Greece to the Classical Period, two philosophers, Empedocles and Anaxagoras, rebel against the prevailing dogma of monism and present a new idea &#8212; that matter consists of mixtures of multiple fundamental elements.</p><p>Thanks to William Little of Ohio State for help with the Latin to get the opposite of "E pluribus unum" for the title.</p><p>If you would like to register for the Stellar Spectacles symposium that I mentioned at the beginning of the episode, go to <a href=www.asxsociety.com>www.asxsociety.com</a></p>]]></content:encoded>
             <enclosure length="45387752" type="audio/mpeg" url="https://storage.googleapis.com/song-of-urania/episodes/episode-013.mp3"/>
 			<itunes:duration>52:05</itunes:duration>
 			<itunes:explicit>no</itunes:explicit>
 			<itunes:keywords>astronomy,history,greece,physics</itunes:keywords>
-			<itunes:subtitle><![CDATA[As we transition from the Archaic Period of Greece to the Classical Period, two philosophers, Empedocles and Anaxagoras, rebel against the prevailing dogma of monism and present a new idea — that matter consists of mixtures of multiple fundamental elements.  Thanks to William Little of Ohio State for help with the Latin to get the opposite of "E pluribus unum" for the title.  If you would like to register for the Stellar Spectacles symposium that I mentioned at the beginning of the episode, go to www.asxsociety.com.]]></itunes:subtitle>
-			<itunes:summary>As we transition from the Archaic Period of Greece to the Classical Period, two philosophers, Empedocles and Anaxagoras, rebel against the prevailing dogma of monism and present a new idea — that matter consists of mixtures of multiple fundamental elements.  Thanks to William Little of Ohio State for help with the Latin to get the opposite of "E pluribus unum" for the title.  If you would like to register for the Stellar Spectacles symposium that I mentioned at the beginning of the episode, go to www.asxsociety.com.</itunes:summary>
+			<itunes:subtitle><![CDATA[As we transition from the Archaic Period of Greece to the Classical Period, two philosophers, Empedocles and Anaxagoras, rebel against the prevailing dogma of monism and present a new idea &#8212; that matter consists of mixtures of multiple fundamental elements.  Thanks to William Little of Ohio State for help with the Latin to get the opposite of "E pluribus unum" for the title.  If you would like to register for the Stellar Spectacles symposium that I mentioned at the beginning of the episode, go to www.asxsociety.com.]]></itunes:subtitle>
+			<itunes:summary>As we transition from the Archaic Period of Greece to the Classical Period, two philosophers, Empedocles and Anaxagoras, rebel against the prevailing dogma of monism and present a new idea &#8212; that matter consists of mixtures of multiple fundamental elements.  Thanks to William Little of Ohio State for help with the Latin to get the opposite of "E pluribus unum" for the title.  If you would like to register for the Stellar Spectacles symposium that I mentioned at the beginning of the episode, go to www.asxsociety.com.</itunes:summary>
 			<itunes:season>1</itunes:season>
 			<itunes:episode>13</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
