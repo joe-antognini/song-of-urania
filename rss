@@ -2,8 +2,8 @@
 	<channel>
 		<atom:link href="https://songofurania.com/rss" rel="self" type="application/rss+xml"/>
 		<title>The Song of Urania</title>
-		<pubDate>Tue, 22 Mar 2022 19:51:45 +0000</pubDate>
-		<lastBuildDate>Tue, 22 Mar 2022 19:51:45 +0000</lastBuildDate>
+		<pubDate>Mon, 18 Apr 2022 17:29:24 +0000</pubDate>
+		<lastBuildDate>Mon, 18 Apr 2022 17:29:24 +0000</lastBuildDate>
 		<link>https://songofurania.com</link>
 		<language>en</language>
 		<copyright><![CDATA[Creative Commons Attribution 4.0 International (CC BY 4.0)]]></copyright>
@@ -30,6 +30,26 @@
 		<description><![CDATA[A history of astronomy, from antiquity to the present.]]></description>
 		<itunes:subtitle><![CDATA[]]></itunes:subtitle>
 		<itunes:type>serial</itunes:type>
+		<item>
+			<title>Episode 16: The Homocentric Spheres of Eudoxus</title>
+			<itunes:title>The Homocentric Spheres of Eudoxus</itunes:title>
+			<pubDate>Mon, 18 Apr 2022 17:29:23 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[5ff8093c-36e1-4c0e-9a23-cf57e655361b]]></guid>
+            <link><![CDATA[https://songofurania.com/episodes/016]]></link>
+			<itunes:image href="https://songofurania.com/images/logo.jpeg"/>
+			<description><![CDATA[<p>In working on the problem of doubling the cube, Plato's friend Archytas devised an ingenious solution that involved a three dimensional curve determined by the intersection of a torus with a cylinder. Archytas's student Eudoxus then seems to have been inspired by this solution to develop the first serious model of planetary motions in ancient Greece, his theory of homocentric spheres.</p>]]></description>
+			<content:encoded><![CDATA[<p>In working on the problem of doubling the cube, Plato's friend Archytas devised an ingenious solution that involved a three dimensional curve determined by the intersection of a torus with a cylinder. Archytas's student Eudoxus then seems to have been inspired by this solution to develop the first serious model of planetary motions in ancient Greece, his theory of homocentric spheres.</p>]]></content:encoded>
+            <enclosure length="51447062" type="audio/mpeg" url="https://storage.googleapis.com/song-of-urania/episodes/episode-016.mp3"/>
+			<itunes:duration>60:43</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords>history,astronomy,greece</itunes:keywords>
+			<itunes:subtitle><![CDATA[In working on the problem of doubling the cube, Plato's friend Archytas devised an ingenious solution that involved a three dimensional curve determined by the intersection of a torus with a cylinder. Archytas's student Eudoxus then seems to have been inspired by this solution to develop the first serious model of planetary motions in ancient Greece, his theory of homocentric spheres.]]></itunes:subtitle>
+			<itunes:summary>In working on the problem of doubling the cube, Plato's friend Archytas devised an ingenious solution that involved a three dimensional curve determined by the intersection of a torus with a cylinder. Archytas's student Eudoxus then seems to have been inspired by this solution to develop the first serious model of planetary motions in ancient Greece, his theory of homocentric spheres.</itunes:summary>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>16</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Joe Antognini</itunes:author>
+		</item>
 		<item>
 			<title>Episode 15: On Plato's Broad Shoulders</title>
 			<itunes:title>On Plato's Broad Shoulders</itunes:title>
