@@ -2,8 +2,8 @@
 	<channel>
 		<atom:link href="https://songofurania.com/rss" rel="self" type="application/rss+xml"/>
 		<title>The Song of Urania</title>
-		<pubDate>Mon, 18 Apr 2022 17:29:24 +0000</pubDate>
-		<lastBuildDate>Mon, 18 Apr 2022 17:29:24 +0000</lastBuildDate>
+		<pubDate>Tue, 17 May 2022 06:16:41 +0000</pubDate>
+		<lastBuildDate>Tue, 17 May 2022 06:16:41 +0000</lastBuildDate>
 		<link>https://songofurania.com</link>
 		<language>en</language>
 		<copyright><![CDATA[Creative Commons Attribution 4.0 International (CC BY 4.0)]]></copyright>
@@ -30,6 +30,26 @@
 		<description><![CDATA[A history of astronomy, from antiquity to the present.]]></description>
 		<itunes:subtitle><![CDATA[]]></itunes:subtitle>
 		<itunes:type>serial</itunes:type>
+		<item>
+			<title>Episode 17: The Attic Calendar and its Discontents</title>
+			<itunes:title>The Attic Calendar and its Discontents</itunes:title>
+			<pubDate>Tue, 17 May 2022 06:16:40 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[927f9235-442a-4a29-bf0a-2ab2a799c44b]]></guid>
+            <link><![CDATA[https://songofurania.com/episodes/017]]></link>
+			<itunes:image href="https://songofurania.com/images/logo.jpeg"/>
+			<description><![CDATA[<p>We turn back the clock and see how a variety of Greek astronomers over the centuries contributed to the Greek calendar, and how Greek politicians ignored their developments. Then we see how the discovery that the seasons are not of equal lengths posed a problem for Eudoxus's theory of planetary motion.</p>]]></description>
+			<content:encoded><![CDATA[<p>We turn back the clock and see how a variety of Greek astronomers over the centuries contributed to the Greek calendar, and how Greek politicians ignored their developments. Then we see how the discovery that the seasons are not of equal lengths posed a problem for Eudoxus's theory of planetary motion.</p>]]></content:encoded>
+            <enclosure length="50337195" type="audio/mpeg" url="https://storage.googleapis.com/song-of-urania/episodes/episode-017.mp3"/>
+			<itunes:duration>59:38</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords>astronomy,history,greece,calendar</itunes:keywords>
+			<itunes:subtitle><![CDATA[We turn back the clock and see how a variety of Greek astronomers over the centuries contributed to the Greek calendar, and how Greek politicians ignored their developments. Then we see how the discovery that the seasons are not of equal lengths posed a problem for Eudoxus's theory of planetary motion.]]></itunes:subtitle>
+			<itunes:summary>We turn back the clock and see how a variety of Greek astronomers over the centuries contributed to the Greek calendar, and how Greek politicians ignored their developments. Then we see how the discovery that the seasons are not of equal lengths posed a problem for Eudoxus's theory of planetary motion.</itunes:summary>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>17</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Joe Antognini</itunes:author>
+		</item>
 		<item>
 			<title>Episode 16: The Homocentric Spheres of Eudoxus</title>
 			<itunes:title>The Homocentric Spheres of Eudoxus</itunes:title>
