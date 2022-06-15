@@ -2,8 +2,8 @@
 	<channel>
 		<atom:link href="https://songofurania.com/rss" rel="self" type="application/rss+xml"/>
 		<title>The Song of Urania</title>
-		<pubDate>Tue, 17 May 2022 06:16:41 +0000</pubDate>
-		<lastBuildDate>Tue, 17 May 2022 06:16:41 +0000</lastBuildDate>
+		<pubDate>Wed, 15 Jun 2022 05:01:34 +0000</pubDate>
+		<lastBuildDate>Wed, 15 Jun 2022 05:01:34 +0000</lastBuildDate>
 		<link>https://songofurania.com</link>
 		<language>en</language>
 		<copyright><![CDATA[Creative Commons Attribution 4.0 International (CC BY 4.0)]]></copyright>
@@ -30,6 +30,26 @@
 		<description><![CDATA[A history of astronomy, from antiquity to the present.]]></description>
 		<itunes:subtitle><![CDATA[]]></itunes:subtitle>
 		<itunes:type>serial</itunes:type>
+		<item>
+			<title>Episode 18: Aristotle, Plato's Other Student</title>
+			<itunes:title>Aristotle, Plato's Other Student</itunes:title>
+			<pubDate>Wed, 15 Jun 2022 05:01:34 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[a9751887-351a-4349-8e8a-bc186e46d0ba]]></guid>
+            <link><![CDATA[https://songofurania.com/episodes/018]]></link>
+			<itunes:image href="https://songofurania.com/images/logo.jpeg"/>
+			<description><![CDATA[<p>Two of Plato's students were notable astronomers. We looked at one of them, Eudoxus, in the last two episodes. In this episode we turn to Plato's other student, Aristotle. Aristotle embellished Eudoxus's model of planetary motion, but also developed a comprehensive physics and cosmology that ultimately became the standard model of the universe during the High Middle Ages.</p>]]></description>
+			<content:encoded><![CDATA[<p>Two of Plato's students were notable astronomers. We looked at one of them, Eudoxus, in the last two episodes. In this episode we turn to Plato's other student, Aristotle. Aristotle embellished Eudoxus's model of planetary motion, but also developed a comprehensive physics and cosmology that ultimately became the standard model of the universe during the High Middle Ages.</p>]]></content:encoded>
+            <enclosure length="63686842" type="audio/mpeg" url="https://storage.googleapis.com/song-of-urania/episodes/episode-018.mp3"/>
+			<itunes:duration>77:58</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords>astronomy,greece,history,philosophy,physics</itunes:keywords>
+			<itunes:subtitle><![CDATA[Two of Plato's students were notable astronomers. We looked at one of them, Eudoxus, in the last two episodes. In this episode we turn to Plato's other student, Aristotle. Aristotle embellished Eudoxus's model of planetary motion, but also developed a comprehensive physics and cosmology that ultimately became the standard model of the universe during the High Middle Ages.]]></itunes:subtitle>
+			<itunes:summary>Two of Plato's students were notable astronomers. We looked at one of them, Eudoxus, in the last two episodes. In this episode we turn to Plato's other student, Aristotle. Aristotle embellished Eudoxus's model of planetary motion, but also developed a comprehensive physics and cosmology that ultimately became the standard model of the universe during the High Middle Ages.</itunes:summary>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>18</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Joe Antognini</itunes:author>
+		</item>
 		<item>
 			<title>Episode 17: The Attic Calendar and its Discontents</title>
 			<itunes:title>The Attic Calendar and its Discontents</itunes:title>
