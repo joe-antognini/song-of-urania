@@ -32,6 +32,8 @@ including the following places:
   podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9zb25nb2Z1cmFuaWEuY29tL3Jzcw)
 * [Spotify](https://open.spotify.com/show/412pyUrUCtPtP9yWCRRsnt)
 * [Stitcher](https://www.stitcher.com/show/the-song-of-urania)
+* [YouTube](https://www.youtube.com/playlist?list=PLsnSTWPyD3dUDVRKjB5Z4oMvzGdlguNDo)
+  (audio only)
 
 Or you can use a good old fashioned RSS link here:
 
