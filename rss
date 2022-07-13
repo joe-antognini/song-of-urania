@@ -2,8 +2,8 @@
 	<channel>
 		<atom:link href="https://songofurania.com/rss" rel="self" type="application/rss+xml"/>
 		<title>The Song of Urania</title>
-		<pubDate>Wed, 15 Jun 2022 05:01:34 +0000</pubDate>
-		<lastBuildDate>Wed, 15 Jun 2022 05:01:34 +0000</lastBuildDate>
+		<pubDate>Wed, 13 Jul 2022 14:24:29 +0000</pubDate>
+		<lastBuildDate>Wed, 13 Jul 2022 14:24:29 +0000</lastBuildDate>
 		<link>https://songofurania.com</link>
 		<language>en</language>
 		<copyright><![CDATA[Creative Commons Attribution 4.0 International (CC BY 4.0)]]></copyright>
@@ -30,6 +30,26 @@
 		<description><![CDATA[A history of astronomy, from antiquity to the present.]]></description>
 		<itunes:subtitle><![CDATA[]]></itunes:subtitle>
 		<itunes:type>serial</itunes:type>
+		<item>
+			<title>Episode 19: The Forerunners of Copernicus</title>
+			<itunes:title>The Forerunners of Copernicus</itunes:title>
+			<pubDate>Wed, 13 Jul 2022 14:24:28 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[11dd61c5-c727-4ea7-a5eb-a97bedfdbede]]></guid>
+            <link><![CDATA[https://songofurania.com/episodes/019]]></link>
+			<itunes:image href="https://songofurania.com/images/logo.jpeg"/>
+			<description><![CDATA[<p>At the dawn of the Hellenistic Age, two Greek astronomers developed radical new cosmologies. Heraclides of Pontica proposed that the Earth rotated on its axis and that Mercury and Venus revolved around the Sun instead of the Earth. Aristarchus of Samos went further and proposed that all the planets, including the Earth, revolved around the Sun. In addition, Aristarchus made the first quantitative measurement of the distances to the Sun and the Moon, along with their sizes.</p>]]></description>
+			<content:encoded><![CDATA[<p>At the dawn of the Hellenistic Age, two Greek astronomers developed radical new cosmologies. Heraclides of Pontica proposed that the Earth rotated on its axis and that Mercury and Venus revolved around the Sun instead of the Earth. Aristarchus of Samos went further and proposed that all the planets, including the Earth, revolved around the Sun. In addition, Aristarchus made the first quantitative measurement of the distances to the Sun and the Moon, along with their sizes.</p>]]></content:encoded>
+            <enclosure length="52990391" type="audio/mpeg" url="https://storage.googleapis.com/song-of-urania/episodes/episode-019.mp3"/>
+			<itunes:duration>65:52</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords>history,astronomy,greece</itunes:keywords>
+			<itunes:subtitle><![CDATA[At the dawn of the Hellenistic Age, two Greek astronomers developed radical new cosmologies. Heraclides of Pontica proposed that the Earth rotated on its axis and that Mercury and Venus revolved around the Sun instead of the Earth. Aristarchus of Samos went further and proposed that all the planets, including the Earth, revolved around the Sun. In addition, Aristarchus made the first quantitative measurement of the distances to the Sun and the Moon, along with their sizes.]]></itunes:subtitle>
+			<itunes:summary>At the dawn of the Hellenistic Age, two Greek astronomers developed radical new cosmologies. Heraclides of Pontica proposed that the Earth rotated on its axis and that Mercury and Venus revolved around the Sun instead of the Earth. Aristarchus of Samos went further and proposed that all the planets, including the Earth, revolved around the Sun. In addition, Aristarchus made the first quantitative measurement of the distances to the Sun and the Moon, along with their sizes.</itunes:summary>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>19</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Joe Antognini</itunes:author>
+		</item>
 		<item>
 			<title>Episode 18: Aristotle, Plato's Other Student</title>
 			<itunes:title>Aristotle, Plato's Other Student</itunes:title>
