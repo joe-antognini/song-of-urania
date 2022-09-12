@@ -2,8 +2,8 @@
 	<channel>
 		<atom:link href="https://songofurania.com/rss" rel="self" type="application/rss+xml"/>
 		<title>The Song of Urania</title>
-		<pubDate>Sat, 13 Aug 2022 08:38:01 +0000</pubDate>
-		<lastBuildDate>Sat, 13 Aug 2022 08:38:01 +0000</lastBuildDate>
+		<pubDate>Mon, 12 Sep 2022 20:29:31 +0000</pubDate>
+		<lastBuildDate>Mon, 12 Sep 2022 20:29:31 +0000</lastBuildDate>
 		<link>https://songofurania.com</link>
 		<language>en</language>
 		<copyright><![CDATA[Creative Commons Attribution 4.0 International (CC BY 4.0)]]></copyright>
@@ -30,6 +30,26 @@
 		<description><![CDATA[A history of astronomy, from antiquity to the present.]]></description>
 		<itunes:subtitle><![CDATA[]]></itunes:subtitle>
 		<itunes:type>serial</itunes:type>
+		<item>
+			<title>Episode 21: Hipparchus the GOAT</title>
+			<itunes:title>Hipparchus the GOAT</itunes:title>
+			<pubDate>Mon, 12 Sep 2022 20:29:30 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[8e3179e6-6296-4f34-9242-397a1602fd19]]></guid>
+            <link><![CDATA[https://songofurania.com/episodes/021]]></link>
+			<itunes:image href="https://songofurania.com/images/logo.jpeg"/>
+			<description><![CDATA[<p>After briefly examining the astronomy of Timocharis and Aristyllus, who developed the first known stellar catalog, we turn our attention to Hipparchus, who I claim was the greatest astronomer of ancient times. Hipparchus made major developments in virtually every area of astronomy known to him. His measurement of the lengths of the year and month were of unprecedented accuracy, he measured the distance to the Moon, and he developed a star catalog that was an order of magnitude larger than the earlier catalog of Timocharis and Aristyllus, which he was able to use to discover the precession of the equinoxes.</p>]]></description>
+			<content:encoded><![CDATA[<p>After briefly examining the astronomy of Timocharis and Aristyllus, who developed the first known stellar catalog, we turn our attention to Hipparchus, who I claim was the greatest astronomer of ancient times. Hipparchus made major developments in virtually every area of astronomy known to him. His measurement of the lengths of the year and month were of unprecedented accuracy, he measured the distance to the Moon, and he developed a star catalog that was an order of magnitude larger than the earlier catalog of Timocharis and Aristyllus, which he was able to use to discover the precession of the equinoxes.</p>]]></content:encoded>
+            <enclosure length="56831012" type="audio/mpeg" url="https://storage.googleapis.com/song-of-urania/episodes/episode-021.mp3"/>
+			<itunes:duration>69:53</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords>astronomy,history,greece</itunes:keywords>
+			<itunes:subtitle><![CDATA[After briefly examining the astronomy of Timocharis and Aristyllus, who developed the first known stellar catalog, we turn our attention to Hipparchus, who I claim was the greatest astronomer of ancient times. Hipparchus made major developments in virtually every area of astronomy known to him. His measurement of the lengths of the year and month were of unprecedented accuracy, he measured the distance to the Moon, and he developed a star catalog that was an order of magnitude larger than the earlier catalog of Timocharis and Aristyllus, which he was able to use to discover the precession of the equinoxes.]]></itunes:subtitle>
+			<itunes:summary>After briefly examining the astronomy of Timocharis and Aristyllus, who developed the first known stellar catalog, we turn our attention to Hipparchus, who I claim was the greatest astronomer of ancient times. Hipparchus made major developments in virtually every area of astronomy known to him. His measurement of the lengths of the year and month were of unprecedented accuracy, he measured the distance to the Moon, and he developed a star catalog that was an order of magnitude larger than the earlier catalog of Timocharis and Aristyllus, which he was able to use to discover the precession of the equinoxes.</itunes:summary>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>21</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Joe Antognini</itunes:author>
+		</item>
 		<item>
 			<title>Episode 20: The Theory of Epicycles &amp; Deferents</title>
 			<itunes:title>The Theory of Epicycles &amp; Deferents</itunes:title>
