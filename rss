@@ -2,8 +2,8 @@
 	<channel>
 		<atom:link href="https://songofurania.com/rss" rel="self" type="application/rss+xml"/>
 		<title>The Song of Urania</title>
-		<pubDate>Mon, 12 Sep 2022 20:29:31 +0000</pubDate>
-		<lastBuildDate>Mon, 12 Sep 2022 20:29:31 +0000</lastBuildDate>
+		<pubDate>Mon, 10 Oct 2022 06:20:07 +0000</pubDate>
+		<lastBuildDate>Mon, 10 Oct 2022 06:20:07 +0000</lastBuildDate>
 		<link>https://songofurania.com</link>
 		<language>en</language>
 		<copyright><![CDATA[Creative Commons Attribution 4.0 International (CC BY 4.0)]]></copyright>
@@ -30,6 +30,26 @@
 		<description><![CDATA[A history of astronomy, from antiquity to the present.]]></description>
 		<itunes:subtitle><![CDATA[]]></itunes:subtitle>
 		<itunes:type>serial</itunes:type>
+		<item>
+			<title>Episode 22: The Antikythera Mechanism &amp; Friends</title>
+			<itunes:title>The Antikythera Mechanism &amp; Friends</itunes:title>
+			<pubDate>Mon, 10 Oct 2022 06:20:07 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[1975232e-e047-4b20-bef8-d533e3e2033c]]></guid>
+            <link><![CDATA[https://songofurania.com/episodes/022]]></link>
+			<itunes:image href="https://songofurania.com/images/logo.jpeg"/>
+			<description><![CDATA[<p>In the year 1900 a team of sea sponge divers stumbled upon a shipwreck from the late Hellenistic Era. Among the statues, coins, and jewellery, the salvage crew pulled out a small box covered in moss. Initially ignored, the contents of this box proved to be the most sophisticated mechanical device that survives from the ancient world. The Antikythera mechanism computed all the known motions of the heavens and its complexity was described by one scholar as "like finding a jet engine in King Tut's tomb."</p>]]></description>
+			<content:encoded><![CDATA[<p>In the year 1900 a team of sea sponge divers stumbled upon a shipwreck from the late Hellenistic Era. Among the statues, coins, and jewellery, the salvage crew pulled out a small box covered in moss. Initially ignored, the contents of this box proved to be the most sophisticated mechanical device that survives from the ancient world. The Antikythera mechanism computed all the known motions of the heavens and its complexity was described by one scholar as "like finding a jet engine in King Tut's tomb."</p>]]></content:encoded>
+            <enclosure length="56286490" type="audio/mpeg" url="https://storage.googleapis.com/song-of-urania/episodes/episode-022.mp3"/>
+			<itunes:duration>56:52</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords>astronomy,history,greece</itunes:keywords>
+			<itunes:subtitle><![CDATA[In the year 1900 a team of sea sponge divers stumbled upon a shipwreck from the late Hellenistic Era. Among the statues, coins, and jewellery, the salvage crew pulled out a small box covered in moss. Initially ignored, the contents of this box proved to be the most sophisticated mechanical device that survives from the ancient world. The Antikythera mechanism computed all the known motions of the heavens and its complexity was described by one scholar as "like finding a jet engine in King Tut's tomb."]]></itunes:subtitle>
+			<itunes:summary>In the year 1900 a team of sea sponge divers stumbled upon a shipwreck from the late Hellenistic Era. Among the statues, coins, and jewellery, the salvage crew pulled out a small box covered in moss. Initially ignored, the contents of this box proved to be the most sophisticated mechanical device that survives from the ancient world. The Antikythera mechanism computed all the known motions of the heavens and its complexity was described by one scholar as "like finding a jet engine in King Tut's tomb."</itunes:summary>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>22</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Joe Antognini</itunes:author>
+		</item>
 		<item>
 			<title>Episode 21: Hipparchus the GOAT</title>
 			<itunes:title>Hipparchus the GOAT</itunes:title>
