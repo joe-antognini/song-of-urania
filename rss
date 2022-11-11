@@ -2,8 +2,8 @@
 	<channel>
 		<atom:link href="https://songofurania.com/rss" rel="self" type="application/rss+xml"/>
 		<title>The Song of Urania</title>
-		<pubDate>Mon, 10 Oct 2022 06:20:07 +0000</pubDate>
-		<lastBuildDate>Mon, 10 Oct 2022 06:20:07 +0000</lastBuildDate>
+		<pubDate>Fri, 11 Nov 2022 06:43:00 +0000</pubDate>
+		<lastBuildDate>Fri, 11 Nov 2022 06:43:00 +0000</lastBuildDate>
 		<link>https://songofurania.com</link>
 		<language>en</language>
 		<copyright><![CDATA[Creative Commons Attribution 4.0 International (CC BY 4.0)]]></copyright>
@@ -30,6 +30,26 @@
 		<description><![CDATA[A history of astronomy, from antiquity to the present.]]></description>
 		<itunes:subtitle><![CDATA[]]></itunes:subtitle>
 		<itunes:type>serial</itunes:type>
+		<item>
+			<title>Episode 23: The Culmination of Ancient Greek Astronomy</title>
+			<itunes:title>The Culmination of Ancient Greek Astronomy</itunes:title>
+			<pubDate>Fri, 11 Nov 2022 06:42:59 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[a7cbd9c2-4417-460f-9c51-da0e12a119fc]]></guid>
+            <link><![CDATA[https://songofurania.com/episodes/023]]></link>
+			<itunes:image href="https://songofurania.com/images/logo.jpeg"/>
+			<description><![CDATA[<p>During the half millennium of the Roman Era in Ancient Greece, only two astronomers made any major advances. At the beginning of the Roman Era, Posidonius measured the size of the Earth and discovered the relationship between the Moon and the tides. But the triumph of Greek astronomy came 300 years later with the intricate planetary model of Ptolemy, which stood unchallenged for some 1400 years.</p>]]></description>
+			<content:encoded><![CDATA[<p>During the half millennium of the Roman Era in Ancient Greece, only two astronomers made any major advances. At the beginning of the Roman Era, Posidonius measured the size of the Earth and discovered the relationship between the Moon and the tides. But the triumph of Greek astronomy came 300 years later with the intricate planetary model of Ptolemy, which stood unchallenged for some 1400 years.</p>]]></content:encoded>
+            <enclosure length="69465024" type="audio/mpeg" url="https://storage.googleapis.com/song-of-urania/episodes/episode-023.mp3"/>
+			<itunes:duration>71:50</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords>astronomy,history,greece</itunes:keywords>
+			<itunes:subtitle><![CDATA[During the half millennium of the Roman Era in Ancient Greece, only two astronomers made any major advances. At the beginning of the Roman Era, Posidonius measured the size of the Earth and discovered the relationship between the Moon and the tides. But the triumph of Greek astronomy came 300 years later with the intricate planetary model of Ptolemy, which stood unchallenged for some 1400 years.]]></itunes:subtitle>
+			<itunes:summary>During the half millennium of the Roman Era in Ancient Greece, only two astronomers made any major advances. At the beginning of the Roman Era, Posidonius measured the size of the Earth and discovered the relationship between the Moon and the tides. But the triumph of Greek astronomy came 300 years later with the intricate planetary model of Ptolemy, which stood unchallenged for some 1400 years.</itunes:summary>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>23</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Joe Antognini</itunes:author>
+		</item>
 		<item>
 			<title>Episode 22: The Antikythera Mechanism &amp; Friends</title>
 			<itunes:title>The Antikythera Mechanism &amp; Friends</itunes:title>
