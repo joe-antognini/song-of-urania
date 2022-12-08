@@ -2,8 +2,8 @@
 	<channel>
 		<atom:link href="https://songofurania.com/rss" rel="self" type="application/rss+xml"/>
 		<title>The Song of Urania</title>
-		<pubDate>Fri, 11 Nov 2022 06:43:00 +0000</pubDate>
-		<lastBuildDate>Fri, 11 Nov 2022 06:43:00 +0000</lastBuildDate>
+		<pubDate>Thu, 08 Dec 2022 16:37:17 +0000</pubDate>
+		<lastBuildDate>Thu, 08 Dec 2022 16:37:17 +0000</lastBuildDate>
 		<link>https://songofurania.com</link>
 		<language>en</language>
 		<copyright><![CDATA[Creative Commons Attribution 4.0 International (CC BY 4.0)]]></copyright>
@@ -30,6 +30,26 @@
 		<description><![CDATA[A history of astronomy, from antiquity to the present.]]></description>
 		<itunes:subtitle><![CDATA[]]></itunes:subtitle>
 		<itunes:type>serial</itunes:type>
+		<item>
+			<title>Episode 24: Etruscan &amp; Roman Astronomy</title>
+			<itunes:title>Etruscan &amp; Roman Astronomy</itunes:title>
+			<pubDate>Thu, 08 Dec 2022 16:37:16 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[6c6fefc5-9265-484b-b5bd-4f0c8179819f]]></guid>
+            <link><![CDATA[https://songofurania.com/episodes/024]]></link>
+			<itunes:image href="https://songofurania.com/images/logo.jpeg"/>
+			<description><![CDATA[<p>Rome, the great empire of the Mediterranean, is not known for its astronomy. But while it lagged behind other civilizations, it is a mistake to think that they were entirely uninterested in the subject. Astronomical references permeated the Roman calendar and one of Rome's longest lasting contributions to Western civilization, the Julian calendar, was devised by the Roman astronomer Sosigenes.</p>]]></description>
+			<content:encoded><![CDATA[<p>Rome, the great empire of the Mediterranean, is not known for its astronomy. But while it lagged behind other civilizations, it is a mistake to think that they were entirely uninterested in the subject. Astronomical references permeated the Roman calendar and one of Rome's longest lasting contributions to Western civilization, the Julian calendar, was devised by the Roman astronomer Sosigenes.</p>]]></content:encoded>
+            <enclosure length="62824511" type="audio/mpeg" url="https://storage.googleapis.com/song-of-urania/episodes/episode-024.mp3"/>
+			<itunes:duration>64:16</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords>astronomy,history,rome</itunes:keywords>
+			<itunes:subtitle><![CDATA[Rome, the great empire of the Mediterranean, is not known for its astronomy. But while it lagged behind other civilizations, it is a mistake to think that they were entirely uninterested in the subject. Astronomical references permeated the Roman calendar and one of Rome's longest lasting contributions to Western civilization, the Julian calendar, was devised by the Roman astronomer Sosigenes.]]></itunes:subtitle>
+			<itunes:summary>Rome, the great empire of the Mediterranean, is not known for its astronomy. But while it lagged behind other civilizations, it is a mistake to think that they were entirely uninterested in the subject. Astronomical references permeated the Roman calendar and one of Rome's longest lasting contributions to Western civilization, the Julian calendar, was devised by the Roman astronomer Sosigenes.</itunes:summary>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>24</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Joe Antognini</itunes:author>
+		</item>
 		<item>
 			<title>Episode 23: The Culmination of Ancient Greek Astronomy</title>
 			<itunes:title>The Culmination of Ancient Greek Astronomy</itunes:title>
