@@ -2,8 +2,8 @@
 	<channel>
 		<atom:link href="https://songofurania.com/rss" rel="self" type="application/rss+xml"/>
 		<title>The Song of Urania</title>
-		<pubDate>Thu, 08 Dec 2022 16:37:17 +0000</pubDate>
-		<lastBuildDate>Thu, 08 Dec 2022 16:37:17 +0000</lastBuildDate>
+		<pubDate>Sat, 07 Jan 2023 06:07:20 +0000</pubDate>
+		<lastBuildDate>Sat, 07 Jan 2023 06:07:20 +0000</lastBuildDate>
 		<link>https://songofurania.com</link>
 		<language>en</language>
 		<copyright><![CDATA[Creative Commons Attribution 4.0 International (CC BY 4.0)]]></copyright>
@@ -30,6 +30,26 @@
 		<description><![CDATA[A history of astronomy, from antiquity to the present.]]></description>
 		<itunes:subtitle><![CDATA[]]></itunes:subtitle>
 		<itunes:type>serial</itunes:type>
+		<item>
+			<title>Episode 25: The Stars of Bethlehem</title>
+			<itunes:title>The Stars of Bethlehem</itunes:title>
+			<pubDate>Sat, 07 Jan 2023 06:07:20 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[a7fa5311-f841-4d21-b486-b09fe4601f62]]></guid>
+            <link><![CDATA[https://songofurania.com/episodes/025]]></link>
+			<itunes:image href="https://songofurania.com/images/logo.jpeg"/>
+			<description><![CDATA[<p>This month the full moon falls on Three Kings' Day, traditionally a day that celebrates the adoration of the magi, so we investigate the famous Star of Bethlehem story. Through the centuries there have been dozens of astronomical and astrological theories put forward as to what the Star of Bethlehem was. We look at a few of the more prominent theories and their shortcomings, finishing with what is plausibly the leading candidate, the astrological theory of Michael Molnar, though as we'll see, this explanation, too, is not without its problems.</p>]]></description>
+			<content:encoded><![CDATA[<p>This month the full moon falls on Three Kings' Day, traditionally a day that celebrates the adoration of the magi, so we investigate the famous Star of Bethlehem story. Through the centuries there have been dozens of astronomical and astrological theories put forward as to what the Star of Bethlehem was. We look at a few of the more prominent theories and their shortcomings, finishing with what is plausibly the leading candidate, the astrological theory of Michael Molnar, though as we'll see, this explanation, too, is not without its problems.</p>]]></content:encoded>
+            <enclosure length="68135198" type="audio/mpeg" url="https://storage.googleapis.com/song-of-urania/episodes/episode-025.mp3"/>
+			<itunes:duration>68:02</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords>astronomy,history,magi,astrology,epiphany,bethlehem</itunes:keywords>
+			<itunes:subtitle><![CDATA[This month the full moon falls on Three Kings' Day, traditionally a day that celebrates the adoration of the magi, so we investigate the famous Star of Bethlehem story. Through the centuries there have been dozens of astronomical and astrological theories put forward as to what the Star of Bethlehem was. We look at a few of the more prominent theories and their shortcomings, finishing with what is plausibly the leading candidate, the astrological theory of Michael Molnar, though as we'll see, this explanation, too, is not without its problems.]]></itunes:subtitle>
+			<itunes:summary>This month the full moon falls on Three Kings' Day, traditionally a day that celebrates the adoration of the magi, so we investigate the famous Star of Bethlehem story. Through the centuries there have been dozens of astronomical and astrological theories put forward as to what the Star of Bethlehem was. We look at a few of the more prominent theories and their shortcomings, finishing with what is plausibly the leading candidate, the astrological theory of Michael Molnar, though as we'll see, this explanation, too, is not without its problems.</itunes:summary>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>25</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Joe Antognini</itunes:author>
+		</item>
 		<item>
 			<title>Episode 24: Etruscan &amp; Roman Astronomy</title>
 			<itunes:title>Etruscan &amp; Roman Astronomy</itunes:title>
