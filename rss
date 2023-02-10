@@ -2,8 +2,8 @@
 	<channel>
 		<atom:link href="https://songofurania.com/rss" rel="self" type="application/rss+xml"/>
 		<title>The Song of Urania</title>
-		<pubDate>Sat, 07 Jan 2023 06:07:20 +0000</pubDate>
-		<lastBuildDate>Sat, 07 Jan 2023 06:07:20 +0000</lastBuildDate>
+		<pubDate>Thu, 09 Feb 2023 23:58:08 +0000</pubDate>
+		<lastBuildDate>Thu, 09 Feb 2023 23:58:08 +0000</lastBuildDate>
 		<link>https://songofurania.com</link>
 		<language>en</language>
 		<copyright><![CDATA[Creative Commons Attribution 4.0 International (CC BY 4.0)]]></copyright>
@@ -30,6 +30,26 @@
 		<description><![CDATA[A history of astronomy, from antiquity to the present.]]></description>
 		<itunes:subtitle><![CDATA[]]></itunes:subtitle>
 		<itunes:type>serial</itunes:type>
+		<item>
+			<title>Episode 26: Matters of Life &amp; Death in Roman Astrology</title>
+			<itunes:title>Matters of Life &amp; Death in Roman Astrology</itunes:title>
+			<pubDate>Thu, 09 Feb 2023 23:58:08 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[b739752f-0b8d-4ab9-86f2-bfd42d1621ce]]></guid>
+            <link><![CDATA[https://songofurania.com/episodes/026]]></link>
+			<itunes:image href="https://songofurania.com/images/logo.jpeg"/>
+			<description><![CDATA[<p>As Rome expanded to the East, the cultural influence of the Greeks deepened, and this included a strong interest in astrology. Despite resistance from conservative Romans, by the Imperial Era, astrology played a critical role in Roman politics, both as a tool to support conspirators attempting to assassinate emperors, and wielded by emperors as a way to eliminate challenges to their power.</p>]]></description>
+			<content:encoded><![CDATA[<p>As Rome expanded to the East, the cultural influence of the Greeks deepened, and this included a strong interest in astrology. Despite resistance from conservative Romans, by the Imperial Era, astrology played a critical role in Roman politics, both as a tool to support conspirators attempting to assassinate emperors, and wielded by emperors as a way to eliminate challenges to their power.</p>]]></content:encoded>
+            <enclosure length="69503672" type="audio/mpeg" url="https://storage.googleapis.com/song-of-urania/episodes/episode-026.mp3"/>
+			<itunes:duration>75:11</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords>astronomy,astrology,history,rome</itunes:keywords>
+			<itunes:subtitle><![CDATA[As Rome expanded to the East, the cultural influence of the Greeks deepened, and this included a strong interest in astrology. Despite resistance from conservative Romans, by the Imperial Era, astrology played a critical role in Roman politics, both as a tool to support conspirators attempting to assassinate emperors, and wielded by emperors as a way to eliminate challenges to their power.]]></itunes:subtitle>
+			<itunes:summary>As Rome expanded to the East, the cultural influence of the Greeks deepened, and this included a strong interest in astrology. Despite resistance from conservative Romans, by the Imperial Era, astrology played a critical role in Roman politics, both as a tool to support conspirators attempting to assassinate emperors, and wielded by emperors as a way to eliminate challenges to their power.</itunes:summary>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>26</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Joe Antognini</itunes:author>
+		</item>
 		<item>
 			<title>Episode 25: The Stars of Bethlehem</title>
 			<itunes:title>The Stars of Bethlehem</itunes:title>
