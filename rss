@@ -2,8 +2,8 @@
 	<channel>
 		<atom:link href="https://songofurania.com/rss" rel="self" type="application/rss+xml"/>
 		<title>The Song of Urania</title>
-		<pubDate>Thu, 09 Feb 2023 23:58:08 +0000</pubDate>
-		<lastBuildDate>Thu, 09 Feb 2023 23:58:08 +0000</lastBuildDate>
+		<pubDate>Sat, 11 Mar 2023 00:07:43 +0000</pubDate>
+		<lastBuildDate>Sat, 11 Mar 2023 00:07:43 +0000</lastBuildDate>
 		<link>https://songofurania.com</link>
 		<language>en</language>
 		<copyright><![CDATA[Creative Commons Attribution 4.0 International (CC BY 4.0)]]></copyright>
@@ -30,6 +30,26 @@
 		<description><![CDATA[A history of astronomy, from antiquity to the present.]]></description>
 		<itunes:subtitle><![CDATA[]]></itunes:subtitle>
 		<itunes:type>serial</itunes:type>
+		<item>
+			<title>Episode 27: Astronomica</title>
+			<itunes:title>Astronomica</itunes:title>
+			<pubDate>Sat, 11 Mar 2023 00:07:43 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[4f678891-7ad0-4c11-9542-96d4e956edb9]]></guid>
+            <link><![CDATA[https://songofurania.com/episodes/027]]></link>
+			<itunes:image href="https://songofurania.com/images/logo.jpeg"/>
+			<description><![CDATA[<p>In this episode we examine the work of two Roman astrologers to see how Roman astrology worked in practice: Marcus Manilius, who wrote Astronomica, and Firmicus Maternus, who wrote the Matheseos.</p>]]></description>
+			<content:encoded><![CDATA[<p>In this episode we examine the work of two Roman astrologers to see how Roman astrology worked in practice: Marcus Manilius, who wrote Astronomica, and Firmicus Maternus, who wrote the Matheseos.</p>]]></content:encoded>
+            <enclosure length="54572185" type="audio/mpeg" url="https://storage.googleapis.com/song-of-urania/episodes/episode-027.mp3"/>
+			<itunes:duration>55:38</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords>astronomy,astrology,history,rome</itunes:keywords>
+			<itunes:subtitle><![CDATA[In this episode we examine the work of two Roman astrologers to see how Roman astrology worked in practice: Marcus Manilius, who wrote Astronomica, and Firmicus Maternus, who wrote the Matheseos.]]></itunes:subtitle>
+			<itunes:summary>In this episode we examine the work of two Roman astrologers to see how Roman astrology worked in practice: Marcus Manilius, who wrote Astronomica, and Firmicus Maternus, who wrote the Matheseos.</itunes:summary>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>27</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Joe Antognini</itunes:author>
+		</item>
 		<item>
 			<title>Episode 26: Matters of Life &amp; Death in Roman Astrology</title>
 			<itunes:title>Matters of Life &amp; Death in Roman Astrology</itunes:title>
