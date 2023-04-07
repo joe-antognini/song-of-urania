@@ -2,8 +2,8 @@
 	<channel>
 		<atom:link href="https://songofurania.com/rss" rel="self" type="application/rss+xml"/>
 		<title>The Song of Urania</title>
-		<pubDate>Sat, 11 Mar 2023 00:07:43 +0000</pubDate>
-		<lastBuildDate>Sat, 11 Mar 2023 00:07:43 +0000</lastBuildDate>
+		<pubDate>Fri, 07 Apr 2023 05:03:27 +0000</pubDate>
+		<lastBuildDate>Fri, 07 Apr 2023 05:03:27 +0000</lastBuildDate>
 		<link>https://songofurania.com</link>
 		<language>en</language>
 		<copyright><![CDATA[Creative Commons Attribution 4.0 International (CC BY 4.0)]]></copyright>
@@ -30,6 +30,26 @@
 		<description><![CDATA[A history of astronomy, from antiquity to the present.]]></description>
 		<itunes:subtitle><![CDATA[]]></itunes:subtitle>
 		<itunes:type>serial</itunes:type>
+		<item>
+			<title>Episode 28: The Stars in Stone</title>
+			<itunes:title>The Stars in Stone</itunes:title>
+			<pubDate>Fri, 07 Apr 2023 05:03:26 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[0b8c2e90-73a8-4cac-91db-824f3fc810de]]></guid>
+            <link><![CDATA[https://songofurania.com/episodes/028]]></link>
+			<itunes:image href="https://songofurania.com/images/logo.jpeg"/>
+			<description><![CDATA[<p>We turn the clock back to the astronomy of the Paleolithic and Neolithic.  Clues about humanity's interest in the heavens during the Paleolithic can be seen in linguistic, mythological, and archaeological evidence.  In the Neolithic, groups of people constructed tens of thousands of megaliths across Europe, many of which had astronomical connections.</p>]]></description>
+			<content:encoded><![CDATA[<p>We turn the clock back to the astronomy of the Paleolithic and Neolithic.  Clues about humanity's interest in the heavens during the Paleolithic can be seen in linguistic, mythological, and archaeological evidence.  In the Neolithic, groups of people constructed tens of thousands of megaliths across Europe, many of which had astronomical connections.</p>]]></content:encoded>
+            <enclosure length="51585620" type="audio/mpeg" url="https://storage.googleapis.com/song-of-urania/episodes/episode-028.mp3"/>
+			<itunes:duration>53:30</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords>astronomy,history,archaeology,paleolithic,neolithic</itunes:keywords>
+			<itunes:subtitle><![CDATA[We turn the clock back to the astronomy of the Paleolithic and Neolithic.  Clues about humanity's interest in the heavens during the Paleolithic can be seen in linguistic, mythological, and archaeological evidence.  In the Neolithic, groups of people constructed tens of thousands of megaliths across Europe, many of which had astronomical connections.]]></itunes:subtitle>
+			<itunes:summary>We turn the clock back to the astronomy of the Paleolithic and Neolithic.  Clues about humanity's interest in the heavens during the Paleolithic can be seen in linguistic, mythological, and archaeological evidence.  In the Neolithic, groups of people constructed tens of thousands of megaliths across Europe, many of which had astronomical connections.</itunes:summary>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>28</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Joe Antognini</itunes:author>
+		</item>
 		<item>
 			<title>Episode 27: Astronomica</title>
 			<itunes:title>Astronomica</itunes:title>
