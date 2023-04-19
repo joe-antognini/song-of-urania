@@ -10,7 +10,6 @@ owner:
   email:          joe.antognini@gmail.com
   github:         song-of-urania
   location:       "Los Angeles, California"
-  disqus:         songofurania
 
 tools:
   standards:      "HTML, SCSS, Jekyll"
