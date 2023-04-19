@@ -10,6 +10,7 @@ owner:
   email:          joe.antognini@gmail.com
   github:         song-of-urania
   location:       "Los Angeles, California"
+  giscus_repo_id: MDEwOlJlcG9zaXRvcnkzOTQ4NjIzNzE=
 
 tools:
   standards:      "HTML, SCSS, Jekyll"
