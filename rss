@@ -2,8 +2,8 @@
 	<channel>
 		<atom:link href="https://songofurania.com/rss" rel="self" type="application/rss+xml"/>
 		<title>The Song of Urania</title>
-		<pubDate>Fri, 07 Apr 2023 05:03:27 +0000</pubDate>
-		<lastBuildDate>Fri, 07 Apr 2023 05:03:27 +0000</lastBuildDate>
+		<pubDate>Wed, 10 May 2023 20:46:15 +0000</pubDate>
+		<lastBuildDate>Wed, 10 May 2023 20:46:15 +0000</lastBuildDate>
 		<link>https://songofurania.com</link>
 		<language>en</language>
 		<copyright><![CDATA[Creative Commons Attribution 4.0 International (CC BY 4.0)]]></copyright>
@@ -30,6 +30,26 @@
 		<description><![CDATA[A history of astronomy, from antiquity to the present.]]></description>
 		<itunes:subtitle><![CDATA[]]></itunes:subtitle>
 		<itunes:type>serial</itunes:type>
+		<item>
+			<title>Episode 29: The Astronomy of Saharan and Sub-Saharan Africa</title>
+			<itunes:title>The Astronomy of Saharan and Sub-Saharan Africa</itunes:title>
+			<pubDate>Wed, 10 May 2023 20:46:14 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[74b80111-223a-4a77-881e-89f1ffd757e2]]></guid>
+            <link><![CDATA[https://songofurania.com/episodes/029]]></link>
+			<itunes:image href="https://songofurania.com/images/logo.jpeg"/>
+			<description><![CDATA[<p>The oldest plausible astronomical artifacts known are African, as are many of the oldest megaliths, around 10,000 of which dot the Sahara and whose orientations are astronomical in character. We then briefly survey some of the creation stories and sky myths from a number of the peoples of sub-Saharan Africa. Finally, we turn to a few of the more unique calendars in the region.</p>]]></description>
+			<content:encoded><![CDATA[<p>The oldest plausible astronomical artifacts known are African, as are many of the oldest megaliths, around 10,000 of which dot the Sahara and whose orientations are astronomical in character. We then briefly survey some of the creation stories and sky myths from a number of the peoples of sub-Saharan Africa. Finally, we turn to a few of the more unique calendars in the region.</p>]]></content:encoded>
+            <enclosure length="47681611" type="audio/mpeg" url="https://storage.googleapis.com/song-of-urania/episodes/episode-029.mp3"/>
+			<itunes:duration>51:00</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords>astronomy,history,africa</itunes:keywords>
+			<itunes:subtitle><![CDATA[The oldest plausible astronomical artifacts known are African, as are many of the oldest megaliths, around 10,000 of which dot the Sahara and whose orientations are astronomical in character. We then briefly survey some of the creation stories and sky myths from a number of the peoples of sub-Saharan Africa. Finally, we turn to a few of the more unique calendars in the region.]]></itunes:subtitle>
+			<itunes:summary>The oldest plausible astronomical artifacts known are African, as are many of the oldest megaliths, around 10,000 of which dot the Sahara and whose orientations are astronomical in character. We then briefly survey some of the creation stories and sky myths from a number of the peoples of sub-Saharan Africa. Finally, we turn to a few of the more unique calendars in the region.</itunes:summary>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>29</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Joe Antognini</itunes:author>
+		</item>
 		<item>
 			<title>Episode 28: The Stars in Stone</title>
 			<itunes:title>The Stars in Stone</itunes:title>
