@@ -2,8 +2,8 @@
 	<channel>
 		<atom:link href="https://songofurania.com/rss" rel="self" type="application/rss+xml"/>
 		<title>The Song of Urania</title>
-		<pubDate>Wed, 10 May 2023 20:46:15 +0000</pubDate>
-		<lastBuildDate>Wed, 10 May 2023 20:46:15 +0000</lastBuildDate>
+		<pubDate>Tue, 06 Jun 2023 06:29:02 +0000</pubDate>
+		<lastBuildDate>Tue, 06 Jun 2023 06:29:02 +0000</lastBuildDate>
 		<link>https://songofurania.com</link>
 		<language>en</language>
 		<copyright><![CDATA[Creative Commons Attribution 4.0 International (CC BY 4.0)]]></copyright>
@@ -30,6 +30,26 @@
 		<description><![CDATA[A history of astronomy, from antiquity to the present.]]></description>
 		<itunes:subtitle><![CDATA[]]></itunes:subtitle>
 		<itunes:type>serial</itunes:type>
+		<item>
+			<title>Episode 30: Egypt in a Nut-Shell</title>
+			<itunes:title>Egypt in a Nut-Shell</itunes:title>
+			<pubDate>Tue, 06 Jun 2023 06:29:02 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[770cc746-a2f3-4a5b-a004-17bd240ab030]]></guid>
+            <link><![CDATA[https://songofurania.com/episodes/030]]></link>
+			<itunes:image href="https://songofurania.com/images/logo.jpeg"/>
+			<description><![CDATA[<p>We turn to ancient Egypt, one of the oldest and most beguiling of the ancient civilizations. Egypt is particularly notable for the sheer conservatism of its civilization and changed little in more than two millennia. After a brief overview of its geography, history, and textual sources, we look at Egyptian conceptions of the creation, structure, and end of the universe.</p>]]></description>
+			<content:encoded><![CDATA[<p>We turn to ancient Egypt, one of the oldest and most beguiling of the ancient civilizations. Egypt is particularly notable for the sheer conservatism of its civilization and changed little in more than two millennia. After a brief overview of its geography, history, and textual sources, we look at Egyptian conceptions of the creation, structure, and end of the universe.</p>]]></content:encoded>
+            <enclosure length="46458906" type="audio/mpeg" url="https://storage.googleapis.com/song-of-urania/episodes/episode-030.mp3"/>
+			<itunes:duration>48:22</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords>astronomy,history,egypt</itunes:keywords>
+			<itunes:subtitle><![CDATA[We turn to ancient Egypt, one of the oldest and most beguiling of the ancient civilizations. Egypt is particularly notable for the sheer conservatism of its civilization and changed little in more than two millennia. After a brief overview of its geography, history, and textual sources, we look at Egyptian conceptions of the creation, structure, and end of the universe.]]></itunes:subtitle>
+			<itunes:summary>We turn to ancient Egypt, one of the oldest and most beguiling of the ancient civilizations. Egypt is particularly notable for the sheer conservatism of its civilization and changed little in more than two millennia. After a brief overview of its geography, history, and textual sources, we look at Egyptian conceptions of the creation, structure, and end of the universe.</itunes:summary>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>30</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Joe Antognini</itunes:author>
+		</item>
 		<item>
 			<title>Episode 29: The Astronomy of Saharan and Sub-Saharan Africa</title>
 			<itunes:title>The Astronomy of Saharan and Sub-Saharan Africa</itunes:title>
