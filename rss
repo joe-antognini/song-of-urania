@@ -2,8 +2,8 @@
 	<channel>
 		<atom:link href="https://songofurania.com/rss" rel="self" type="application/rss+xml"/>
 		<title>The Song of Urania</title>
-		<pubDate>Fri, 07 Apr 2023 05:03:27 +0000</pubDate>
-		<lastBuildDate>Fri, 07 Apr 2023 05:03:27 +0000</lastBuildDate>
+		<pubDate>Wed, 05 Jul 2023 20:25:07 +0000</pubDate>
+		<lastBuildDate>Wed, 05 Jul 2023 20:25:07 +0000</lastBuildDate>
 		<link>https://songofurania.com</link>
 		<language>en</language>
 		<copyright><![CDATA[Creative Commons Attribution 4.0 International (CC BY 4.0)]]></copyright>
@@ -30,6 +30,66 @@
 		<description><![CDATA[A history of astronomy, from antiquity to the present.]]></description>
 		<itunes:subtitle><![CDATA[]]></itunes:subtitle>
 		<itunes:type>serial</itunes:type>
+		<item>
+			<title>Episode 31: We Need to Talk About Khufu</title>
+			<itunes:title>We Need to Talk About Khufu</itunes:title>
+			<pubDate>Wed, 05 Jul 2023 20:25:07 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[b41c3811-8a2c-46c5-bb73-4f239c1cf912]]></guid>
+            <link><![CDATA[https://songofurania.com/episodes/031]]></link>
+			<itunes:image href="https://songofurania.com/images/logo.jpeg"/>
+			<description><![CDATA[<p>Before getting back into Egyptian astronomy proper, we start by looking at Nabta Playa, a site of megalithic activity in the Nubian desert during the late neolithic. Then we turn to the megaliths the Egyptians are best known for &#8212; the pyramids. The pyramids have remarkably precise alignments to the cardinal directions and the techniques the Egyptians used to set these alignments remains a mystery. Finally, we look at the largest of the pyramids, Khufu's pyramid, whose so-called ventilation shafts have a possible astronomical connection.</p>]]></description>
+			<content:encoded><![CDATA[<p>Before getting back into Egyptian astronomy proper, we start by looking at Nabta Playa, a site of megalithic activity in the Nubian desert during the late neolithic. Then we turn to the megaliths the Egyptians are best known for &#8212; the pyramids. The pyramids have remarkably precise alignments to the cardinal directions and the techniques the Egyptians used to set these alignments remains a mystery. Finally, we look at the largest of the pyramids, Khufu's pyramid, whose so-called ventilation shafts have a possible astronomical connection.</p>]]></content:encoded>
+            <enclosure length="33621684" type="audio/mpeg" url="https://storage.googleapis.com/song-of-urania/episodes/episode-031.mp3"/>
+			<itunes:duration>34:12</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords>astronomy,history,egypt</itunes:keywords>
+			<itunes:subtitle><![CDATA[Before getting back into Egyptian astronomy proper, we start by looking at Nabta Playa, a site of megalithic activity in the Nubian desert during the late neolithic. Then we turn to the megaliths the Egyptians are best known for &#8212; the pyramids. The pyramids have remarkably precise alignments to the cardinal directions and the techniques the Egyptians used to set these alignments remains a mystery. Finally, we look at the largest of the pyramids, Khufu's pyramid, whose so-called ventilation shafts have a possible astronomical connection.]]></itunes:subtitle>
+			<itunes:summary>Before getting back into Egyptian astronomy proper, we start by looking at Nabta Playa, a site of megalithic activity in the Nubian desert during the late neolithic. Then we turn to the megaliths the Egyptians are best known for &#8212; the pyramids. The pyramids have remarkably precise alignments to the cardinal directions and the techniques the Egyptians used to set these alignments remains a mystery. Finally, we look at the largest of the pyramids, Khufu's pyramid, whose so-called ventilation shafts have a possible astronomical connection.</itunes:summary>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>31</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Joe Antognini</itunes:author>
+		</item>
+		<item>
+			<title>Episode 30: Egypt in a Nut-Shell</title>
+			<itunes:title>Egypt in a Nut-Shell</itunes:title>
+			<pubDate>Tue, 06 Jun 2023 06:29:02 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[770cc746-a2f3-4a5b-a004-17bd240ab030]]></guid>
+            <link><![CDATA[https://songofurania.com/episodes/030]]></link>
+			<itunes:image href="https://songofurania.com/images/logo.jpeg"/>
+			<description><![CDATA[<p>We turn to ancient Egypt, one of the oldest and most beguiling of the ancient civilizations. Egypt is particularly notable for the sheer conservatism of its civilization and changed little in more than two millennia. After a brief overview of its geography, history, and textual sources, we look at Egyptian conceptions of the creation, structure, and end of the universe.</p>]]></description>
+			<content:encoded><![CDATA[<p>We turn to ancient Egypt, one of the oldest and most beguiling of the ancient civilizations. Egypt is particularly notable for the sheer conservatism of its civilization and changed little in more than two millennia. After a brief overview of its geography, history, and textual sources, we look at Egyptian conceptions of the creation, structure, and end of the universe.</p>]]></content:encoded>
+            <enclosure length="46458906" type="audio/mpeg" url="https://storage.googleapis.com/song-of-urania/episodes/episode-030.mp3"/>
+			<itunes:duration>48:22</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords>astronomy,history,egypt</itunes:keywords>
+			<itunes:subtitle><![CDATA[We turn to ancient Egypt, one of the oldest and most beguiling of the ancient civilizations. Egypt is particularly notable for the sheer conservatism of its civilization and changed little in more than two millennia. After a brief overview of its geography, history, and textual sources, we look at Egyptian conceptions of the creation, structure, and end of the universe.]]></itunes:subtitle>
+			<itunes:summary>We turn to ancient Egypt, one of the oldest and most beguiling of the ancient civilizations. Egypt is particularly notable for the sheer conservatism of its civilization and changed little in more than two millennia. After a brief overview of its geography, history, and textual sources, we look at Egyptian conceptions of the creation, structure, and end of the universe.</itunes:summary>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>30</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Joe Antognini</itunes:author>
+		</item>
+		<item>
+			<title>Episode 29: The Astronomy of Saharan and Sub-Saharan Africa</title>
+			<itunes:title>The Astronomy of Saharan and Sub-Saharan Africa</itunes:title>
+			<pubDate>Wed, 10 May 2023 20:46:14 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[74b80111-223a-4a77-881e-89f1ffd757e2]]></guid>
+            <link><![CDATA[https://songofurania.com/episodes/029]]></link>
+			<itunes:image href="https://songofurania.com/images/logo.jpeg"/>
+			<description><![CDATA[<p>The oldest plausible astronomical artifacts known are African, as are many of the oldest megaliths, around 10,000 of which dot the Sahara and whose orientations are astronomical in character. We then briefly survey some of the creation stories and sky myths from a number of the peoples of sub-Saharan Africa. Finally, we turn to a few of the more unique calendars in the region.</p>]]></description>
+			<content:encoded><![CDATA[<p>The oldest plausible astronomical artifacts known are African, as are many of the oldest megaliths, around 10,000 of which dot the Sahara and whose orientations are astronomical in character. We then briefly survey some of the creation stories and sky myths from a number of the peoples of sub-Saharan Africa. Finally, we turn to a few of the more unique calendars in the region.</p>]]></content:encoded>
+            <enclosure length="47681611" type="audio/mpeg" url="https://storage.googleapis.com/song-of-urania/episodes/episode-029.mp3"/>
+			<itunes:duration>51:00</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords>astronomy,history,africa</itunes:keywords>
+			<itunes:subtitle><![CDATA[The oldest plausible astronomical artifacts known are African, as are many of the oldest megaliths, around 10,000 of which dot the Sahara and whose orientations are astronomical in character. We then briefly survey some of the creation stories and sky myths from a number of the peoples of sub-Saharan Africa. Finally, we turn to a few of the more unique calendars in the region.]]></itunes:subtitle>
+			<itunes:summary>The oldest plausible astronomical artifacts known are African, as are many of the oldest megaliths, around 10,000 of which dot the Sahara and whose orientations are astronomical in character. We then briefly survey some of the creation stories and sky myths from a number of the peoples of sub-Saharan Africa. Finally, we turn to a few of the more unique calendars in the region.</itunes:summary>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>29</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Joe Antognini</itunes:author>
+		</item>
 		<item>
 			<title>Episode 28: The Stars in Stone</title>
 			<itunes:title>The Stars in Stone</itunes:title>
@@ -197,14 +257,14 @@
 			<guid isPermaLink="false"><![CDATA[89cf0e7b-9b28-42bf-a905-5cfae0343215]]></guid>
             <link><![CDATA[https://songofurania.com/episodes/020]]></link>
 			<itunes:image href="https://songofurania.com/images/logo.jpeg"/>
-			<description><![CDATA[<p>In the Hellenistic Era the astronomer Apollonius of Perga (maybe) developed the model of epicycles and deferents that was to dominate Western astronomy for more than 1500 years. Around the same time, Eratosthenes, woh was the head librarian at the Library of Alexandria, developed a novel technique to measure the circumference of the Earth and arrived at a suspiciously accurate result.</p>]]></description>
-			<content:encoded><![CDATA[<p>In the Hellenistic Era the astronomer Apollonius of Perga (maybe) developed the model of epicycles and deferents that was to dominate Western astronomy for more than 1500 years. Around the same time, Eratosthenes, woh was the head librarian at the Library of Alexandria, developed a novel technique to measure the circumference of the Earth and arrived at a suspiciously accurate result.</p>]]></content:encoded>
+			<description><![CDATA[<p>In the Hellenistic Era the astronomer Apollonius of Perga (maybe) developed the model of epicycles and deferents that was to dominate Western astronomy for more than 1500 years. Around the same time, Eratosthenes, who was the head librarian at the Library of Alexandria, developed a novel technique to measure the circumference of the Earth and arrived at a suspiciously accurate result.</p>]]></description>
+			<content:encoded><![CDATA[<p>In the Hellenistic Era the astronomer Apollonius of Perga (maybe) developed the model of epicycles and deferents that was to dominate Western astronomy for more than 1500 years. Around the same time, Eratosthenes, who was the head librarian at the Library of Alexandria, developed a novel technique to measure the circumference of the Earth and arrived at a suspiciously accurate result.</p>]]></content:encoded>
             <enclosure length="39683660" type="audio/mpeg" url="https://storage.googleapis.com/song-of-urania/episodes/episode-020.mp3"/>
 			<itunes:duration>47:28</itunes:duration>
 			<itunes:explicit>no</itunes:explicit>
 			<itunes:keywords>history,astronomy,greece,geography</itunes:keywords>
-			<itunes:subtitle><![CDATA[In the Hellenistic Era the astronomer Apollonius of Perga (maybe) developed the model of epicycles and deferents that was to dominate Western astronomy for more than 1500 years. Around the same time, Eratosthenes, woh was the head librarian at the Library of Alexandria, developed a novel technique to measure the circumference of the Earth and arrived at a suspiciously accurate result.]]></itunes:subtitle>
-			<itunes:summary>In the Hellenistic Era the astronomer Apollonius of Perga (maybe) developed the model of epicycles and deferents that was to dominate Western astronomy for more than 1500 years. Around the same time, Eratosthenes, woh was the head librarian at the Library of Alexandria, developed a novel technique to measure the circumference of the Earth and arrived at a suspiciously accurate result.</itunes:summary>
+			<itunes:subtitle><![CDATA[In the Hellenistic Era the astronomer Apollonius of Perga (maybe) developed the model of epicycles and deferents that was to dominate Western astronomy for more than 1500 years. Around the same time, Eratosthenes, who was the head librarian at the Library of Alexandria, developed a novel technique to measure the circumference of the Earth and arrived at a suspiciously accurate result.]]></itunes:subtitle>
+			<itunes:summary>In the Hellenistic Era the astronomer Apollonius of Perga (maybe) developed the model of epicycles and deferents that was to dominate Western astronomy for more than 1500 years. Around the same time, Eratosthenes, who was the head librarian at the Library of Alexandria, developed a novel technique to measure the circumference of the Earth and arrived at a suspiciously accurate result.</itunes:summary>
 			<itunes:season>1</itunes:season>
 			<itunes:episode>20</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
