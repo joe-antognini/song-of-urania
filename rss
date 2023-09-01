@@ -2,8 +2,8 @@
 	<channel>
 		<atom:link href="https://songofurania.com/rss" rel="self" type="application/rss+xml"/>
 		<title>The Song of Urania</title>
-		<pubDate>Sun, 06 Aug 2023 04:14:42 +0000</pubDate>
-		<lastBuildDate>Sun, 06 Aug 2023 04:14:42 +0000</lastBuildDate>
+		<pubDate>Fri, 01 Sep 2023 18:57:15 +0000</pubDate>
+		<lastBuildDate>Fri, 01 Sep 2023 18:57:15 +0000</lastBuildDate>
 		<link>https://songofurania.com</link>
 		<language>en</language>
 		<copyright><![CDATA[Creative Commons Attribution 4.0 International (CC BY 4.0)]]></copyright>
@@ -30,6 +30,26 @@
 		<description><![CDATA[A history of astronomy, from antiquity to the present.]]></description>
 		<itunes:subtitle><![CDATA[]]></itunes:subtitle>
 		<itunes:type>serial</itunes:type>
+		<item>
+			<title>Episode 33: How the Moon Became Blue</title>
+			<itunes:title>How the Moon Became Blue</itunes:title>
+			<pubDate>Fri, 01 Sep 2023 18:57:14 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[76d0cd38-1d54-4627-9b7e-151f9191fd95]]></guid>
+            <link><![CDATA[https://songofurania.com/episodes/033]]></link>
+			<itunes:image href="https://songofurania.com/images/logo.jpeg"/>
+			<description><![CDATA[<p>We take a break from the main narrative in honor of this month's blue moon and turn to a somewhat more frivolous topic &#8212; how the term "blue moon" came to mean the second full moon in a calendar month.</p>]]></description>
+			<content:encoded><![CDATA[<p>We take a break from the main narrative in honor of this month's blue moon and turn to a somewhat more frivolous topic &#8212; how the term "blue moon" came to mean the second full moon in a calendar month.</p>]]></content:encoded>
+            <enclosure length="33163528" type="audio/mpeg" url="https://storage.googleapis.com/song-of-urania/episodes/episode-033.mp3"/>
+			<itunes:duration>34:50</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords>astronomy,history</itunes:keywords>
+			<itunes:subtitle><![CDATA[We take a break from the main narrative in honor of this month's blue moon and turn to a somewhat more frivolous topic &#8212; how the term "blue moon" came to mean the second full moon in a calendar month.]]></itunes:subtitle>
+			<itunes:summary>We take a break from the main narrative in honor of this month's blue moon and turn to a somewhat more frivolous topic &#8212; how the term "blue moon" came to mean the second full moon in a calendar month.</itunes:summary>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>33</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Joe Antognini</itunes:author>
+		</item>
 		<item>
 			<title>Episode 32: All Along the Watchers of the Hour</title>
 			<itunes:title>All Along the Watchers of the Hour</itunes:title>
