@@ -2,8 +2,8 @@
 	<channel>
 		<atom:link href="https://songofurania.com/rss" rel="self" type="application/rss+xml"/>
 		<title>The Song of Urania</title>
-		<pubDate>Fri, 01 Sep 2023 18:57:15 +0000</pubDate>
-		<lastBuildDate>Fri, 01 Sep 2023 18:57:15 +0000</lastBuildDate>
+		<pubDate>Sat, 30 Sep 2023 20:17:38 +0000</pubDate>
+		<lastBuildDate>Sat, 30 Sep 2023 20:17:38 +0000</lastBuildDate>
 		<link>https://songofurania.com</link>
 		<language>en</language>
 		<copyright><![CDATA[Creative Commons Attribution 4.0 International (CC BY 4.0)]]></copyright>
@@ -30,6 +30,26 @@
 		<description><![CDATA[A history of astronomy, from antiquity to the present.]]></description>
 		<itunes:subtitle><![CDATA[]]></itunes:subtitle>
 		<itunes:type>serial</itunes:type>
+		<item>
+			<title>Episode 34: What Happened in Harappa</title>
+			<itunes:title>What Happened in Harappa</itunes:title>
+			<pubDate>Sat, 30 Sep 2023 20:17:38 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[21a37b03-39d7-4da5-9897-afd7d8276c7f]]></guid>
+            <link><![CDATA[https://songofurania.com/episodes/034]]></link>
+			<itunes:image href="https://songofurania.com/images/logo.jpeg"/>
+			<description><![CDATA[<p>India developed one of the most advanced astronomies of any of the ancient cultures, even rivaling European astronomy in its accuracy by the 18th century. We look at how the geography of India influenced its history and then turn briefly to the little we know about the astronomy of the Harappan Civilization. Finally we end with the astronomy of the Rigveda.</p>]]></description>
+			<content:encoded><![CDATA[<p>India developed one of the most advanced astronomies of any of the ancient cultures, even rivaling European astronomy in its accuracy by the 18th century. We look at how the geography of India influenced its history and then turn briefly to the little we know about the astronomy of the Harappan Civilization. Finally we end with the astronomy of the Rigveda.</p>]]></content:encoded>
+            <enclosure length="35843842" type="audio/mpeg" url="https://storage.googleapis.com/song-of-urania/episodes/episode-034.mp3"/>
+			<itunes:duration>37:59</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords>astronomy,history,india</itunes:keywords>
+			<itunes:subtitle><![CDATA[India developed one of the most advanced astronomies of any of the ancient cultures, even rivaling European astronomy in its accuracy by the 18th century. We look at how the geography of India influenced its history and then turn briefly to the little we know about the astronomy of the Harappan Civilization. Finally we end with the astronomy of the Rigveda.]]></itunes:subtitle>
+			<itunes:summary>India developed one of the most advanced astronomies of any of the ancient cultures, even rivaling European astronomy in its accuracy by the 18th century. We look at how the geography of India influenced its history and then turn briefly to the little we know about the astronomy of the Harappan Civilization. Finally we end with the astronomy of the Rigveda.</itunes:summary>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>34</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Joe Antognini</itunes:author>
+		</item>
 		<item>
 			<title>Episode 33: How the Moon Became Blue</title>
 			<itunes:title>How the Moon Became Blue</itunes:title>
