@@ -2,8 +2,8 @@
 	<channel>
 		<atom:link href="https://songofurania.com/rss" rel="self" type="application/rss+xml"/>
 		<title>The Song of Urania</title>
-		<pubDate>Fri, 03 Nov 2023 18:48:59 +0000</pubDate>
-		<lastBuildDate>Fri, 03 Nov 2023 18:48:59 +0000</lastBuildDate>
+		<pubDate>Fri, 01 Dec 2023 05:45:05 +0000</pubDate>
+		<lastBuildDate>Fri, 01 Dec 2023 05:45:05 +0000</lastBuildDate>
 		<link>https://songofurania.com</link>
 		<language>en</language>
 		<copyright><![CDATA[Creative Commons Attribution 4.0 International (CC BY 4.0)]]></copyright>
@@ -30,6 +30,26 @@
 		<description><![CDATA[A history of astronomy, from antiquity to the present.]]></description>
 		<itunes:subtitle><![CDATA[]]></itunes:subtitle>
 		<itunes:type>serial</itunes:type>
+		<item>
+			<title>Episode 36: Aryabhata &amp; the Siddhantas</title>
+			<itunes:title>Aryabhata &amp; the Siddhantas</itunes:title>
+			<pubDate>Fri, 01 Dec 2023 05:45:04 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[21a791d7-4955-4cd0-95bc-f4e10088a889]]></guid>
+            <link><![CDATA[https://songofurania.com/episodes/036]]></link>
+			<itunes:image href="https://songofurania.com/images/logo.jpeg"/>
+			<description><![CDATA[<p>In our final episode on ancient Indian astronomy, we tour the five astronomical Siddhantas, and then meet some of the astronomers whose names and works survive to us, most importantly, the great Aryabhata.</p>]]></description>
+			<content:encoded><![CDATA[<p>In our final episode on ancient Indian astronomy, we tour the five astronomical Siddhantas, and then meet some of the astronomers whose names and works survive to us, most importantly, the great Aryabhata.</p>]]></content:encoded>
+            <enclosure length="45106124" type="audio/mpeg" url="https://storage.googleapis.com/song-of-urania/episodes/episode-036.mp3"/>
+			<itunes:duration>48:59</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords>astronomy,history</itunes:keywords>
+			<itunes:subtitle><![CDATA[In our final episode on ancient Indian astronomy, we tour the five astronomical Siddhantas, and then meet some of the astronomers whose names and works survive to us, most importantly, the great Aryabhata.]]></itunes:subtitle>
+			<itunes:summary>In our final episode on ancient Indian astronomy, we tour the five astronomical Siddhantas, and then meet some of the astronomers whose names and works survive to us, most importantly, the great Aryabhata.</itunes:summary>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>36</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Joe Antognini</itunes:author>
+		</item>
 		<item>
 			<title>Episode 35: The Vedanga Jyotisha &amp; Beyond</title>
 			<itunes:title>The Vedanga Jyotisha &amp; Beyond</itunes:title>
