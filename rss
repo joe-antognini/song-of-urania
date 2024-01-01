@@ -2,8 +2,8 @@
 	<channel>
 		<atom:link href="https://songofurania.com/rss" rel="self" type="application/rss+xml"/>
 		<title>The Song of Urania</title>
-		<pubDate>Fri, 01 Dec 2023 05:45:05 +0000</pubDate>
-		<lastBuildDate>Fri, 01 Dec 2023 05:45:05 +0000</lastBuildDate>
+		<pubDate>Mon, 01 Jan 2024 21:03:26 +0000</pubDate>
+		<lastBuildDate>Mon, 01 Jan 2024 21:03:26 +0000</lastBuildDate>
 		<link>https://songofurania.com</link>
 		<language>en</language>
 		<copyright><![CDATA[Creative Commons Attribution 4.0 International (CC BY 4.0)]]></copyright>
@@ -30,6 +30,26 @@
 		<description><![CDATA[A history of astronomy, from antiquity to the present.]]></description>
 		<itunes:subtitle><![CDATA[]]></itunes:subtitle>
 		<itunes:type>serial</itunes:type>
+		<item>
+			<title>Episode 37: The Mandate of Heaven</title>
+			<itunes:title>The Mandate of Heaven</itunes:title>
+			<pubDate>Mon, 01 Jan 2024 21:03:26 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[a51b021a-8d46-4aba-a6c1-ac3ff6a5a875]]></guid>
+            <link><![CDATA[https://songofurania.com/episodes/037]]></link>
+			<itunes:image href="https://songofurania.com/images/logo.jpeg"/>
+			<description><![CDATA[<p>We start to explore the relationship between the heavens and the Earth in Ancient China, along with the role of astronomers. One of the most important concepts in Chinese political thought to emerge from this was the Mandate of Heaven. Finally, we look at the oldest record of Chinese astronomy, the story of the astronomers Xi and Ho.</p>]]></description>
+			<content:encoded><![CDATA[<p>We start to explore the relationship between the heavens and the Earth in Ancient China, along with the role of astronomers. One of the most important concepts in Chinese political thought to emerge from this was the Mandate of Heaven. Finally, we look at the oldest record of Chinese astronomy, the story of the astronomers Xi and Ho.</p>]]></content:encoded>
+            <enclosure length="50621670" type="audio/mpeg" url="https://storage.googleapis.com/song-of-urania/episodes/episode-037.mp3"/>
+			<itunes:duration>53:38</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords>astronomy,history,china</itunes:keywords>
+			<itunes:subtitle><![CDATA[We start to explore the relationship between the heavens and the Earth in Ancient China, along with the role of astronomers. One of the most important concepts in Chinese political thought to emerge from this was the Mandate of Heaven. Finally, we look at the oldest record of Chinese astronomy, the story of the astronomers Xi and Ho.]]></itunes:subtitle>
+			<itunes:summary>We start to explore the relationship between the heavens and the Earth in Ancient China, along with the role of astronomers. One of the most important concepts in Chinese political thought to emerge from this was the Mandate of Heaven. Finally, we look at the oldest record of Chinese astronomy, the story of the astronomers Xi and Ho.</itunes:summary>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>37</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Joe Antognini</itunes:author>
+		</item>
 		<item>
 			<title>Episode 36: Aryabhata &amp; the Siddhantas</title>
 			<itunes:title>Aryabhata &amp; the Siddhantas</itunes:title>
