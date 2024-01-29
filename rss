@@ -2,8 +2,8 @@
 	<channel>
 		<atom:link href="https://songofurania.com/rss" rel="self" type="application/rss+xml"/>
 		<title>The Song of Urania</title>
-		<pubDate>Mon, 01 Jan 2024 21:03:26 +0000</pubDate>
-		<lastBuildDate>Mon, 01 Jan 2024 21:03:26 +0000</lastBuildDate>
+		<pubDate>Mon, 29 Jan 2024 21:24:22 +0000</pubDate>
+		<lastBuildDate>Mon, 29 Jan 2024 21:24:22 +0000</lastBuildDate>
 		<link>https://songofurania.com</link>
 		<language>en</language>
 		<copyright><![CDATA[Creative Commons Attribution 4.0 International (CC BY 4.0)]]></copyright>
@@ -30,6 +30,26 @@
 		<description><![CDATA[A history of astronomy, from antiquity to the present.]]></description>
 		<itunes:subtitle><![CDATA[]]></itunes:subtitle>
 		<itunes:type>serial</itunes:type>
+		<item>
+			<title>Episode 38: The Organization of Heaven &amp; Earth</title>
+			<itunes:title>The Organization of Heaven &amp; Earth</itunes:title>
+			<pubDate>Mon, 29 Jan 2024 21:24:22 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[16c5b9a6-23ad-464d-897e-c2fb6f5aa90f]]></guid>
+            <link><![CDATA[https://songofurania.com/episodes/038]]></link>
+			<itunes:image href="https://songofurania.com/images/logo.jpeg"/>
+			<description><![CDATA[<p>This month we turn to the astronomy of China in the early Imperial Era. We look at the way that the Emperor's astronomers were organized within the imperial bureaucracy and then walk through the three significant cosmological theories of the era.</p>]]></description>
+			<content:encoded><![CDATA[<p>This month we turn to the astronomy of China in the early Imperial Era. We look at the way that the Emperor's astronomers were organized within the imperial bureaucracy and then walk through the three significant cosmological theories of the era.</p>]]></content:encoded>
+            <enclosure length="40666162" type="audio/mpeg" url="https://storage.googleapis.com/song-of-urania/episodes/episode-038.mp3"/>
+			<itunes:duration>43:46</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords>astronomy,history</itunes:keywords>
+			<itunes:subtitle><![CDATA[This month we turn to the astronomy of China in the early Imperial Era. We look at the way that the Emperor's astronomers were organized within the imperial bureaucracy and then walk through the three significant cosmological theories of the era.]]></itunes:subtitle>
+			<itunes:summary>This month we turn to the astronomy of China in the early Imperial Era. We look at the way that the Emperor's astronomers were organized within the imperial bureaucracy and then walk through the three significant cosmological theories of the era.</itunes:summary>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>38</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Joe Antognini</itunes:author>
+		</item>
 		<item>
 			<title>Episode 37: The Mandate of Heaven</title>
 			<itunes:title>The Mandate of Heaven</itunes:title>
