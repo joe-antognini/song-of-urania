@@ -2,8 +2,8 @@
 	<channel>
 		<atom:link href="https://songofurania.com/rss" rel="self" type="application/rss+xml"/>
 		<title>The Song of Urania</title>
-		<pubDate>Fri, 01 Mar 2024 05:18:10 +0000</pubDate>
-		<lastBuildDate>Fri, 01 Mar 2024 05:18:10 +0000</lastBuildDate>
+		<pubDate>Fri, 29 Mar 2024 21:33:06 +0000</pubDate>
+		<lastBuildDate>Fri, 29 Mar 2024 21:33:06 +0000</lastBuildDate>
 		<link>https://songofurania.com</link>
 		<language>en</language>
 		<copyright><![CDATA[Creative Commons Attribution 4.0 International (CC BY 4.0)]]></copyright>
@@ -30,6 +30,26 @@
 		<description><![CDATA[A history of astronomy, from antiquity to the present.]]></description>
 		<itunes:subtitle><![CDATA[]]></itunes:subtitle>
 		<itunes:type>serial</itunes:type>
+		<item>
+			<title>Episode 40: Emperor Wu's Woo</title>
+			<itunes:title>Emperor Wu's Woo</itunes:title>
+			<pubDate>Fri, 29 Mar 2024 21:33:05 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[d5e6b241-e642-444e-8658-13b7118a65bf]]></guid>
+            <link><![CDATA[https://songofurania.com/episodes/040]]></link>
+			<itunes:image href="https://songofurania.com/images/logo.jpeg"/>
+			<description><![CDATA[<p>We learn about the political events and omens that led to the calendar reform of 104 BC.</p>]]></description>
+			<content:encoded><![CDATA[<p>We learn about the political events and omens that led to the calendar reform of 104 BC.</p>]]></content:encoded>
+            <enclosure length="52301033" type="audio/mpeg" url="https://storage.googleapis.com/song-of-urania/episodes/episode-040.mp3"/>
+			<itunes:duration>55:10</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords>astronomy,history</itunes:keywords>
+			<itunes:subtitle><![CDATA[We learn about the political events and omens that led to the calendar reform of 104 BC.]]></itunes:subtitle>
+			<itunes:summary>We learn about the political events and omens that led to the calendar reform of 104 BC.</itunes:summary>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>40</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Joe Antognini</itunes:author>
+		</item>
 		<item>
 			<title>Episode 39: The Guest Stars</title>
 			<itunes:title>The Guest Stars</itunes:title>
