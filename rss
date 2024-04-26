@@ -2,8 +2,8 @@
 	<channel>
 		<atom:link href="https://songofurania.com/rss" rel="self" type="application/rss+xml"/>
 		<title>The Song of Urania</title>
-		<pubDate>Fri, 29 Mar 2024 21:33:06 +0000</pubDate>
-		<lastBuildDate>Fri, 29 Mar 2024 21:33:06 +0000</lastBuildDate>
+		<pubDate>Fri, 26 Apr 2024 04:23:31 +0000</pubDate>
+		<lastBuildDate>Fri, 26 Apr 2024 04:23:31 +0000</lastBuildDate>
 		<link>https://songofurania.com</link>
 		<language>en</language>
 		<copyright><![CDATA[Creative Commons Attribution 4.0 International (CC BY 4.0)]]></copyright>
@@ -30,6 +30,26 @@
 		<description><![CDATA[A history of astronomy, from antiquity to the present.]]></description>
 		<itunes:subtitle><![CDATA[]]></itunes:subtitle>
 		<itunes:type>serial</itunes:type>
+		<item>
+			<title>Episode 41: Liu Xin's Theory of Everything</title>
+			<itunes:title>Liu Xin's Theory of Everything</itunes:title>
+			<pubDate>Fri, 26 Apr 2024 04:23:31 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[adc0d343-0a30-433a-84a1-b77eb1cb95bf]]></guid>
+            <link><![CDATA[https://songofurania.com/episodes/041]]></link>
+			<itunes:image href="https://songofurania.com/images/logo.jpeg"/>
+			<description><![CDATA[<p>After Wang Mang deposed the Han Dynasty and instituted his new Xin Dynasty, he needed to promulgate a new calendar to mark the occasion. One of his court astronomers, Liu Xin, developed a new calendar that integrated the lunar and solar cycles with the planetary cycles and imbued it with numerological significance. We then talk about how Huan Tan, another astronomer of the era, would have gone about measuring the lunar mansions.</p>]]></description>
+			<content:encoded><![CDATA[<p>After Wang Mang deposed the Han Dynasty and instituted his new Xin Dynasty, he needed to promulgate a new calendar to mark the occasion. One of his court astronomers, Liu Xin, developed a new calendar that integrated the lunar and solar cycles with the planetary cycles and imbued it with numerological significance. We then talk about how Huan Tan, another astronomer of the era, would have gone about measuring the lunar mansions.</p>]]></content:encoded>
+            <enclosure length="45733214" type="audio/mpeg" url="https://storage.googleapis.com/song-of-urania/episodes/episode-041.mp3"/>
+			<itunes:duration>47:23</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords>astronomy,history</itunes:keywords>
+			<itunes:subtitle><![CDATA[After Wang Mang deposed the Han Dynasty and instituted his new Xin Dynasty, he needed to promulgate a new calendar to mark the occasion. One of his court astronomers, Liu Xin, developed a new calendar that integrated the lunar and solar cycles with the planetary cycles and imbued it with numerological significance. We then talk about how Huan Tan, another astronomer of the era, would have gone about measuring the lunar mansions.]]></itunes:subtitle>
+			<itunes:summary>After Wang Mang deposed the Han Dynasty and instituted his new Xin Dynasty, he needed to promulgate a new calendar to mark the occasion. One of his court astronomers, Liu Xin, developed a new calendar that integrated the lunar and solar cycles with the planetary cycles and imbued it with numerological significance. We then talk about how Huan Tan, another astronomer of the era, would have gone about measuring the lunar mansions.</itunes:summary>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>41</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Joe Antognini</itunes:author>
+		</item>
 		<item>
 			<title>Episode 40: Emperor Wu's Woo</title>
 			<itunes:title>Emperor Wu's Woo</itunes:title>
