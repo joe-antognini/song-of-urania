@@ -2,8 +2,8 @@
 	<channel>
 		<atom:link href="https://songofurania.com/rss" rel="self" type="application/rss+xml"/>
 		<title>The Song of Urania</title>
-		<pubDate>Fri, 26 Apr 2024 04:23:31 +0000</pubDate>
-		<lastBuildDate>Fri, 26 Apr 2024 04:23:31 +0000</lastBuildDate>
+		<pubDate>Thu, 30 May 2024 04:41:28 +0000</pubDate>
+		<lastBuildDate>Thu, 30 May 2024 04:41:28 +0000</lastBuildDate>
 		<link>https://songofurania.com</link>
 		<language>en</language>
 		<copyright><![CDATA[Creative Commons Attribution 4.0 International (CC BY 4.0)]]></copyright>
@@ -30,6 +30,26 @@
 		<description><![CDATA[A history of astronomy, from antiquity to the present.]]></description>
 		<itunes:subtitle><![CDATA[]]></itunes:subtitle>
 		<itunes:type>serial</itunes:type>
+		<item>
+			<title>Episode 42: A Tale of Two Reforms</title>
+			<itunes:title>A Tale of Two Reforms</itunes:title>
+			<pubDate>Thu, 30 May 2024 04:41:28 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[d8fcdee8-6c77-4b74-8400-a9fa6148e8d1]]></guid>
+            <link><![CDATA[https://songofurania.com/episodes/042]]></link>
+			<itunes:image href="https://songofurania.com/images/logo.jpeg"/>
+			<description><![CDATA[<p>After Wang Mang had usurped the Imperial throne, a disastrous series of reforms led to the collapse of his dynasty. The reestablishment of the Han Dynasty called for yet another calendar reform. About a millennium later, a group of officials, including the astronomer Shen Kuo, instigated a treacherous period in court politics by pressing for a radical set of reforms called the New Policies.</p>]]></description>
+			<content:encoded><![CDATA[<p>After Wang Mang had usurped the Imperial throne, a disastrous series of reforms led to the collapse of his dynasty. The reestablishment of the Han Dynasty called for yet another calendar reform. About a millennium later, a group of officials, including the astronomer Shen Kuo, instigated a treacherous period in court politics by pressing for a radical set of reforms called the New Policies.</p>]]></content:encoded>
+            <enclosure length="52725796" type="audio/mpeg" url="https://storage.googleapis.com/song-of-urania/episodes/episode-042.mp3"/>
+			<itunes:duration>56:22</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords>astronomy,history</itunes:keywords>
+			<itunes:subtitle><![CDATA[After Wang Mang had usurped the Imperial throne, a disastrous series of reforms led to the collapse of his dynasty. The reestablishment of the Han Dynasty called for yet another calendar reform. About a millennium later, a group of officials, including the astronomer Shen Kuo, instigated a treacherous period in court politics by pressing for a radical set of reforms called the New Policies.]]></itunes:subtitle>
+			<itunes:summary>After Wang Mang had usurped the Imperial throne, a disastrous series of reforms led to the collapse of his dynasty. The reestablishment of the Han Dynasty called for yet another calendar reform. About a millennium later, a group of officials, including the astronomer Shen Kuo, instigated a treacherous period in court politics by pressing for a radical set of reforms called the New Policies.</itunes:summary>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>42</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Joe Antognini</itunes:author>
+		</item>
 		<item>
 			<title>Episode 41: Liu Xin's Theory of Everything</title>
 			<itunes:title>Liu Xin's Theory of Everything</itunes:title>
