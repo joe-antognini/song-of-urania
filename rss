@@ -2,8 +2,8 @@
 	<channel>
 		<atom:link href="https://songofurania.com/rss" rel="self" type="application/rss+xml"/>
 		<title>The Song of Urania</title>
-		<pubDate>Fri, 03 Nov 2023 18:48:59 +0000</pubDate>
-		<lastBuildDate>Fri, 03 Nov 2023 18:48:59 +0000</lastBuildDate>
+		<pubDate>Thu, 30 May 2024 04:41:28 +0000</pubDate>
+		<lastBuildDate>Thu, 30 May 2024 04:41:28 +0000</lastBuildDate>
 		<link>https://songofurania.com</link>
 		<language>en</language>
 		<copyright><![CDATA[Creative Commons Attribution 4.0 International (CC BY 4.0)]]></copyright>
@@ -30,6 +30,146 @@
 		<description><![CDATA[A history of astronomy, from antiquity to the present.]]></description>
 		<itunes:subtitle><![CDATA[]]></itunes:subtitle>
 		<itunes:type>serial</itunes:type>
+		<item>
+			<title>Episode 42: A Tale of Two Reforms</title>
+			<itunes:title>A Tale of Two Reforms</itunes:title>
+			<pubDate>Thu, 30 May 2024 04:41:28 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[d8fcdee8-6c77-4b74-8400-a9fa6148e8d1]]></guid>
+            <link><![CDATA[https://songofurania.com/episodes/042]]></link>
+			<itunes:image href="https://songofurania.com/images/logo.jpeg"/>
+			<description><![CDATA[<p>After Wang Mang had usurped the Imperial throne, a disastrous series of reforms led to the collapse of his dynasty. The reestablishment of the Han Dynasty called for yet another calendar reform. About a millennium later, a group of officials, including the astronomer Shen Kuo, instigated a treacherous period in court politics by pressing for a radical set of reforms called the New Policies.</p>]]></description>
+			<content:encoded><![CDATA[<p>After Wang Mang had usurped the Imperial throne, a disastrous series of reforms led to the collapse of his dynasty. The reestablishment of the Han Dynasty called for yet another calendar reform. About a millennium later, a group of officials, including the astronomer Shen Kuo, instigated a treacherous period in court politics by pressing for a radical set of reforms called the New Policies.</p>]]></content:encoded>
+            <enclosure length="52725796" type="audio/mpeg" url="https://storage.googleapis.com/song-of-urania/episodes/episode-042.mp3"/>
+			<itunes:duration>56:22</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords>astronomy,history</itunes:keywords>
+			<itunes:subtitle><![CDATA[After Wang Mang had usurped the Imperial throne, a disastrous series of reforms led to the collapse of his dynasty. The reestablishment of the Han Dynasty called for yet another calendar reform. About a millennium later, a group of officials, including the astronomer Shen Kuo, instigated a treacherous period in court politics by pressing for a radical set of reforms called the New Policies.]]></itunes:subtitle>
+			<itunes:summary>After Wang Mang had usurped the Imperial throne, a disastrous series of reforms led to the collapse of his dynasty. The reestablishment of the Han Dynasty called for yet another calendar reform. About a millennium later, a group of officials, including the astronomer Shen Kuo, instigated a treacherous period in court politics by pressing for a radical set of reforms called the New Policies.</itunes:summary>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>42</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Joe Antognini</itunes:author>
+		</item>
+		<item>
+			<title>Episode 41: Liu Xin's Theory of Everything</title>
+			<itunes:title>Liu Xin's Theory of Everything</itunes:title>
+			<pubDate>Fri, 26 Apr 2024 04:23:31 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[adc0d343-0a30-433a-84a1-b77eb1cb95bf]]></guid>
+            <link><![CDATA[https://songofurania.com/episodes/041]]></link>
+			<itunes:image href="https://songofurania.com/images/logo.jpeg"/>
+			<description><![CDATA[<p>After Wang Mang deposed the Han Dynasty and instituted his new Xin Dynasty, he needed to promulgate a new calendar to mark the occasion. One of his court astronomers, Liu Xin, developed a new calendar that integrated the lunar and solar cycles with the planetary cycles and imbued it with numerological significance. We then talk about how Huan Tan, another astronomer of the era, would have gone about measuring the lunar mansions.</p>]]></description>
+			<content:encoded><![CDATA[<p>After Wang Mang deposed the Han Dynasty and instituted his new Xin Dynasty, he needed to promulgate a new calendar to mark the occasion. One of his court astronomers, Liu Xin, developed a new calendar that integrated the lunar and solar cycles with the planetary cycles and imbued it with numerological significance. We then talk about how Huan Tan, another astronomer of the era, would have gone about measuring the lunar mansions.</p>]]></content:encoded>
+            <enclosure length="45733214" type="audio/mpeg" url="https://storage.googleapis.com/song-of-urania/episodes/episode-041.mp3"/>
+			<itunes:duration>47:23</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords>astronomy,history</itunes:keywords>
+			<itunes:subtitle><![CDATA[After Wang Mang deposed the Han Dynasty and instituted his new Xin Dynasty, he needed to promulgate a new calendar to mark the occasion. One of his court astronomers, Liu Xin, developed a new calendar that integrated the lunar and solar cycles with the planetary cycles and imbued it with numerological significance. We then talk about how Huan Tan, another astronomer of the era, would have gone about measuring the lunar mansions.]]></itunes:subtitle>
+			<itunes:summary>After Wang Mang deposed the Han Dynasty and instituted his new Xin Dynasty, he needed to promulgate a new calendar to mark the occasion. One of his court astronomers, Liu Xin, developed a new calendar that integrated the lunar and solar cycles with the planetary cycles and imbued it with numerological significance. We then talk about how Huan Tan, another astronomer of the era, would have gone about measuring the lunar mansions.</itunes:summary>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>41</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Joe Antognini</itunes:author>
+		</item>
+		<item>
+			<title>Episode 40: Emperor Wu's Woo</title>
+			<itunes:title>Emperor Wu's Woo</itunes:title>
+			<pubDate>Fri, 29 Mar 2024 21:33:05 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[d5e6b241-e642-444e-8658-13b7118a65bf]]></guid>
+            <link><![CDATA[https://songofurania.com/episodes/040]]></link>
+			<itunes:image href="https://songofurania.com/images/logo.jpeg"/>
+			<description><![CDATA[<p>We learn about the political events and omens that led to the calendar reform of 104 BC.</p>]]></description>
+			<content:encoded><![CDATA[<p>We learn about the political events and omens that led to the calendar reform of 104 BC.</p>]]></content:encoded>
+            <enclosure length="52301033" type="audio/mpeg" url="https://storage.googleapis.com/song-of-urania/episodes/episode-040.mp3"/>
+			<itunes:duration>55:10</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords>astronomy,history</itunes:keywords>
+			<itunes:subtitle><![CDATA[We learn about the political events and omens that led to the calendar reform of 104 BC.]]></itunes:subtitle>
+			<itunes:summary>We learn about the political events and omens that led to the calendar reform of 104 BC.</itunes:summary>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>40</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Joe Antognini</itunes:author>
+		</item>
+		<item>
+			<title>Episode 39: The Guest Stars</title>
+			<itunes:title>The Guest Stars</itunes:title>
+			<pubDate>Fri, 01 Mar 2024 05:18:10 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[853fe4b9-3ffc-4500-9765-92a3ca956206]]></guid>
+            <link><![CDATA[https://songofurania.com/episodes/039]]></link>
+			<itunes:image href="https://songofurania.com/images/logo.jpeg"/>
+			<description><![CDATA[<p>We turn to the ways that the Chinese Emperor's astronomers predicted and interpreted eclipses, as well as the so-called "guest stars" that they occasionally reported observing in the skies. Then we discuss the role of the planets, particularly Jupiter. Towards the end we hear a few examples of astronomy in Chinese folklore.</p>]]></description>
+			<content:encoded><![CDATA[<p>We turn to the ways that the Chinese Emperor's astronomers predicted and interpreted eclipses, as well as the so-called "guest stars" that they occasionally reported observing in the skies. Then we discuss the role of the planets, particularly Jupiter. Towards the end we hear a few examples of astronomy in Chinese folklore.</p>]]></content:encoded>
+            <enclosure length="48371922" type="audio/mpeg" url="https://storage.googleapis.com/song-of-urania/episodes/episode-039.mp3"/>
+			<itunes:duration>50:33</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords>astronomy,history</itunes:keywords>
+			<itunes:subtitle><![CDATA[We turn to the ways that the Chinese Emperor's astronomers predicted and interpreted eclipses, as well as the so-called "guest stars" that they occasionally reported observing in the skies. Then we discuss the role of the planets, particularly Jupiter. Towards the end we hear a few examples of astronomy in Chinese folklore.]]></itunes:subtitle>
+			<itunes:summary>We turn to the ways that the Chinese Emperor's astronomers predicted and interpreted eclipses, as well as the so-called "guest stars" that they occasionally reported observing in the skies. Then we discuss the role of the planets, particularly Jupiter. Towards the end we hear a few examples of astronomy in Chinese folklore.</itunes:summary>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>39</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Joe Antognini</itunes:author>
+		</item>
+		<item>
+			<title>Episode 38: The Organization of Heaven &amp; Earth</title>
+			<itunes:title>The Organization of Heaven &amp; Earth</itunes:title>
+			<pubDate>Mon, 29 Jan 2024 21:24:22 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[16c5b9a6-23ad-464d-897e-c2fb6f5aa90f]]></guid>
+            <link><![CDATA[https://songofurania.com/episodes/038]]></link>
+			<itunes:image href="https://songofurania.com/images/logo.jpeg"/>
+			<description><![CDATA[<p>This month we turn to the astronomy of China in the early Imperial Era. We look at the way that the Emperor's astronomers were organized within the imperial bureaucracy and then walk through the three significant cosmological theories of the era.</p>]]></description>
+			<content:encoded><![CDATA[<p>This month we turn to the astronomy of China in the early Imperial Era. We look at the way that the Emperor's astronomers were organized within the imperial bureaucracy and then walk through the three significant cosmological theories of the era.</p>]]></content:encoded>
+            <enclosure length="40666162" type="audio/mpeg" url="https://storage.googleapis.com/song-of-urania/episodes/episode-038.mp3"/>
+			<itunes:duration>43:46</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords>astronomy,history</itunes:keywords>
+			<itunes:subtitle><![CDATA[This month we turn to the astronomy of China in the early Imperial Era. We look at the way that the Emperor's astronomers were organized within the imperial bureaucracy and then walk through the three significant cosmological theories of the era.]]></itunes:subtitle>
+			<itunes:summary>This month we turn to the astronomy of China in the early Imperial Era. We look at the way that the Emperor's astronomers were organized within the imperial bureaucracy and then walk through the three significant cosmological theories of the era.</itunes:summary>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>38</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Joe Antognini</itunes:author>
+		</item>
+		<item>
+			<title>Episode 37: The Mandate of Heaven</title>
+			<itunes:title>The Mandate of Heaven</itunes:title>
+			<pubDate>Mon, 01 Jan 2024 21:03:26 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[a51b021a-8d46-4aba-a6c1-ac3ff6a5a875]]></guid>
+            <link><![CDATA[https://songofurania.com/episodes/037]]></link>
+			<itunes:image href="https://songofurania.com/images/logo.jpeg"/>
+			<description><![CDATA[<p>We start to explore the relationship between the heavens and the Earth in Ancient China, along with the role of astronomers. One of the most important concepts in Chinese political thought to emerge from this was the Mandate of Heaven. Finally, we look at the oldest record of Chinese astronomy, the story of the astronomers Xi and Ho.</p>]]></description>
+			<content:encoded><![CDATA[<p>We start to explore the relationship between the heavens and the Earth in Ancient China, along with the role of astronomers. One of the most important concepts in Chinese political thought to emerge from this was the Mandate of Heaven. Finally, we look at the oldest record of Chinese astronomy, the story of the astronomers Xi and Ho.</p>]]></content:encoded>
+            <enclosure length="50621670" type="audio/mpeg" url="https://storage.googleapis.com/song-of-urania/episodes/episode-037.mp3"/>
+			<itunes:duration>53:38</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords>astronomy,history,china</itunes:keywords>
+			<itunes:subtitle><![CDATA[We start to explore the relationship between the heavens and the Earth in Ancient China, along with the role of astronomers. One of the most important concepts in Chinese political thought to emerge from this was the Mandate of Heaven. Finally, we look at the oldest record of Chinese astronomy, the story of the astronomers Xi and Ho.]]></itunes:subtitle>
+			<itunes:summary>We start to explore the relationship between the heavens and the Earth in Ancient China, along with the role of astronomers. One of the most important concepts in Chinese political thought to emerge from this was the Mandate of Heaven. Finally, we look at the oldest record of Chinese astronomy, the story of the astronomers Xi and Ho.</itunes:summary>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>37</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Joe Antognini</itunes:author>
+		</item>
+		<item>
+			<title>Episode 36: Aryabhata &amp; the Siddhantas</title>
+			<itunes:title>Aryabhata &amp; the Siddhantas</itunes:title>
+			<pubDate>Fri, 01 Dec 2023 05:45:04 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[21a791d7-4955-4cd0-95bc-f4e10088a889]]></guid>
+            <link><![CDATA[https://songofurania.com/episodes/036]]></link>
+			<itunes:image href="https://songofurania.com/images/logo.jpeg"/>
+			<description><![CDATA[<p>In our final episode on ancient Indian astronomy, we tour the five astronomical Siddhantas, and then meet some of the astronomers whose names and works survive to us, most importantly, the great Aryabhata.</p>]]></description>
+			<content:encoded><![CDATA[<p>In our final episode on ancient Indian astronomy, we tour the five astronomical Siddhantas, and then meet some of the astronomers whose names and works survive to us, most importantly, the great Aryabhata.</p>]]></content:encoded>
+            <enclosure length="45106124" type="audio/mpeg" url="https://storage.googleapis.com/song-of-urania/episodes/episode-036.mp3"/>
+			<itunes:duration>48:59</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords>astronomy,history</itunes:keywords>
+			<itunes:subtitle><![CDATA[In our final episode on ancient Indian astronomy, we tour the five astronomical Siddhantas, and then meet some of the astronomers whose names and works survive to us, most importantly, the great Aryabhata.]]></itunes:subtitle>
+			<itunes:summary>In our final episode on ancient Indian astronomy, we tour the five astronomical Siddhantas, and then meet some of the astronomers whose names and works survive to us, most importantly, the great Aryabhata.</itunes:summary>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>36</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Joe Antognini</itunes:author>
+		</item>
 		<item>
 			<title>Episode 35: The Vedanga Jyotisha &amp; Beyond</title>
 			<itunes:title>The Vedanga Jyotisha &amp; Beyond</itunes:title>
