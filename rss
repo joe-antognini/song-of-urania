@@ -2,8 +2,8 @@
 	<channel>
 		<atom:link href="https://songofurania.com/rss" rel="self" type="application/rss+xml"/>
 		<title>The Song of Urania</title>
-		<pubDate>Thu, 30 May 2024 04:41:28 +0000</pubDate>
-		<lastBuildDate>Thu, 30 May 2024 04:41:28 +0000</lastBuildDate>
+		<pubDate>Tue, 25 Jun 2024 23:41:54 +0000</pubDate>
+		<lastBuildDate>Tue, 25 Jun 2024 23:41:54 +0000</lastBuildDate>
 		<link>https://songofurania.com</link>
 		<language>en</language>
 		<copyright><![CDATA[Creative Commons Attribution 4.0 International (CC BY 4.0)]]></copyright>
@@ -30,6 +30,26 @@
 		<description><![CDATA[A history of astronomy, from antiquity to the present.]]></description>
 		<itunes:subtitle><![CDATA[]]></itunes:subtitle>
 		<itunes:type>serial</itunes:type>
+		<item>
+			<title>Episode 43: When the Saint Comes Marching In</title>
+			<itunes:title>When the Saint Comes Marching In</itunes:title>
+			<pubDate>Tue, 25 Jun 2024 23:41:53 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[4de88fed-0282-4c5d-9a59-b89b9a5c202c]]></guid>
+            <link><![CDATA[https://songofurania.com/episodes/043]]></link>
+			<itunes:image href="https://songofurania.com/images/logo.jpeg"/>
+			<description><![CDATA[<p>After the fall of the Mongol Yuan Dynasty, the newly founded Ming Dynasty drove the few small Nestorian Christian communities in China underground and largely closed the country off to foreigners. Only in the 16th century with the arrival of Portuguese traders did contacts with the West begin to be revived. The newly founded Jesuit order organized a mission to China led by Matteo Ricci. After finding his efforts at establishing a presence in the country stymied by the government, Ricci discovered that the key to securing a permanent Jesuit presence in China was his knowledge of Western astronomy.</p>]]></description>
+			<content:encoded><![CDATA[<p>After the fall of the Mongol Yuan Dynasty, the newly founded Ming Dynasty drove the few small Nestorian Christian communities in China underground and largely closed the country off to foreigners. Only in the 16th century with the arrival of Portuguese traders did contacts with the West begin to be revived. The newly founded Jesuit order organized a mission to China led by Matteo Ricci. After finding his efforts at establishing a presence in the country stymied by the government, Ricci discovered that the key to securing a permanent Jesuit presence in China was his knowledge of Western astronomy.</p>]]></content:encoded>
+            <enclosure length="49482683" type="audio/mpeg" url="https://storage.googleapis.com/song-of-urania/episodes/episode-043.mp3"/>
+			<itunes:duration>49:24</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords>astronomy,history</itunes:keywords>
+			<itunes:subtitle><![CDATA[After the fall of the Mongol Yuan Dynasty, the newly founded Ming Dynasty drove the few small Nestorian Christian communities in China underground and largely closed the country off to foreigners. Only in the 16th century with the arrival of Portuguese traders did contacts with the West begin to be revived. The newly founded Jesuit order organized a mission to China led by Matteo Ricci. After finding his efforts at establishing a presence in the country stymied by the government, Ricci discovered that the key to securing a permanent Jesuit presence in China was his knowledge of Western astronomy.]]></itunes:subtitle>
+			<itunes:summary>After the fall of the Mongol Yuan Dynasty, the newly founded Ming Dynasty drove the few small Nestorian Christian communities in China underground and largely closed the country off to foreigners. Only in the 16th century with the arrival of Portuguese traders did contacts with the West begin to be revived. The newly founded Jesuit order organized a mission to China led by Matteo Ricci. After finding his efforts at establishing a presence in the country stymied by the government, Ricci discovered that the key to securing a permanent Jesuit presence in China was his knowledge of Western astronomy.</itunes:summary>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>43</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Joe Antognini</itunes:author>
+		</item>
 		<item>
 			<title>Episode 42: A Tale of Two Reforms</title>
 			<itunes:title>A Tale of Two Reforms</itunes:title>
