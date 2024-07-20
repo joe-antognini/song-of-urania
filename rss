@@ -2,8 +2,8 @@
 	<channel>
 		<atom:link href="https://songofurania.com/rss" rel="self" type="application/rss+xml"/>
 		<title>The Song of Urania</title>
-		<pubDate>Wed, 26 Jun 2024 03:09:40 +0000</pubDate>
-		<lastBuildDate>Wed, 26 Jun 2024 03:09:40 +0000</lastBuildDate>
+		<pubDate>Sat, 20 Jul 2024 21:41:53 +0000</pubDate>
+		<lastBuildDate>Sat, 20 Jul 2024 21:41:53 +0000</lastBuildDate>
 		<link>https://songofurania.com</link>
 		<language>en</language>
 		<copyright><![CDATA[Creative Commons Attribution 4.0 International (CC BY 4.0)]]></copyright>
@@ -30,6 +30,26 @@
 		<description><![CDATA[A history of astronomy, from antiquity to the present.]]></description>
 		<itunes:subtitle><![CDATA[]]></itunes:subtitle>
 		<itunes:type>serial</itunes:type>
+		<item>
+			<title>Episode 44: Ad Maiorem Dei Gloriam Per Astra</title>
+			<itunes:title>Ad Maiorem Dei Gloriam Per Astra</itunes:title>
+			<pubDate>Sat, 20 Jul 2024 21:41:53 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[c0a3c5e5-6419-43df-a512-6568e2dfb0f2]]></guid>
+            <link><![CDATA[https://songofurania.com/episodes/044]]></link>
+			<itunes:image href="https://songofurania.com/images/logo.jpeg"/>
+			<description><![CDATA[<p>In his second attempt, Matteo Ricci was able to gain access to the Forbidden City. Over the next century, the Jesuits came to surprising influence in China through their knowledge of European astronomy, though this journey was not without its perils.</p>]]></description>
+			<content:encoded><![CDATA[<p>In his second attempt, Matteo Ricci was able to gain access to the Forbidden City. Over the next century, the Jesuits came to surprising influence in China through their knowledge of European astronomy, though this journey was not without its perils.</p>]]></content:encoded>
+            <enclosure length="57912294" type="audio/mpeg" url="https://storage.googleapis.com/song-of-urania/episodes/episode-044.mp3"/>
+			<itunes:duration>61:35</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords>astronomy,history</itunes:keywords>
+			<itunes:subtitle><![CDATA[In his second attempt, Matteo Ricci was able to gain access to the Forbidden City. Over the next century, the Jesuits came to surprising influence in China through their knowledge of European astronomy, though this journey was not without its perils.]]></itunes:subtitle>
+			<itunes:summary>In his second attempt, Matteo Ricci was able to gain access to the Forbidden City. Over the next century, the Jesuits came to surprising influence in China through their knowledge of European astronomy, though this journey was not without its perils.</itunes:summary>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>44</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Joe Antognini</itunes:author>
+		</item>
 		<item>
 			<title>Episode 43: When the Saint Comes Marching In</title>
 			<itunes:title>When the Saint Comes Marching In</itunes:title>
