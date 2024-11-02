@@ -2,8 +2,8 @@
 	<channel>
 		<atom:link href="https://songofurania.com/rss" rel="self" type="application/rss+xml"/>
 		<title>The Song of Urania</title>
-		<pubDate>Sat, 28 Sep 2024 04:58:32 +0000</pubDate>
-		<lastBuildDate>Sat, 28 Sep 2024 04:58:32 +0000</lastBuildDate>
+		<pubDate>Sat, 02 Nov 2024 20:07:58 +0000</pubDate>
+		<lastBuildDate>Sat, 02 Nov 2024 20:07:58 +0000</lastBuildDate>
 		<link>https://songofurania.com</link>
 		<language>en</language>
 		<copyright><![CDATA[Creative Commons Attribution 4.0 International (CC BY 4.0)]]></copyright>
@@ -30,6 +30,26 @@
 		<description><![CDATA[A history of astronomy, from antiquity to the present.]]></description>
 		<itunes:subtitle><![CDATA[]]></itunes:subtitle>
 		<itunes:type>serial</itunes:type>
+		<item>
+			<title>Episode 47: Clock Around the Rock</title>
+			<itunes:title>Clock Around the Rock</itunes:title>
+			<pubDate>Sat, 02 Nov 2024 20:07:58 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[3027413e-84a9-4bf5-afb1-e279bc97da7b]]></guid>
+            <link><![CDATA[https://songofurania.com/episodes/047]]></link>
+			<itunes:image href="https://songofurania.com/images/logo.jpeg"/>
+			<description><![CDATA[<p>We turn to the astronomy of Mesoamerica, with a particular focus on the Maya and Aztec. The central feature of their astronomy was a pair of interlocking calendars which regulated all aspects of life. The surviving Maya manuscripts also deal extensively with the motion of Venus, which may also have driven decisions to go to war. We also look at the famous Aztec Sun Stone, the 2012 phenomenon, and the fall of the Itz&#225; Kingdom.  NOTE: The Song of Urania will be going on hiatus and will return on the first full moon of 2026.</p>]]></description>
+			<content:encoded><![CDATA[<p>We turn to the astronomy of Mesoamerica, with a particular focus on the Maya and Aztec. The central feature of their astronomy was a pair of interlocking calendars which regulated all aspects of life. The surviving Maya manuscripts also deal extensively with the motion of Venus, which may also have driven decisions to go to war. We also look at the famous Aztec Sun Stone, the 2012 phenomenon, and the fall of the Itz&#225; Kingdom.  NOTE: The Song of Urania will be going on hiatus and will return on the first full moon of 2026.</p>]]></content:encoded>
+            <enclosure length="105091687" type="audio/mpeg" url="https://storage.googleapis.com/song-of-urania/episodes/episode-047.mp3"/>
+			<itunes:duration>110:06</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords>astronomy,history</itunes:keywords>
+			<itunes:subtitle><![CDATA[We turn to the astronomy of Mesoamerica, with a particular focus on the Maya and Aztec. The central feature of their astronomy was a pair of interlocking calendars which regulated all aspects of life. The surviving Maya manuscripts also deal extensively with the motion of Venus, which may also have driven decisions to go to war. We also look at the famous Aztec Sun Stone, the 2012 phenomenon, and the fall of the Itz&#225; Kingdom.  NOTE: The Song of Urania will be going on hiatus and will return on the first full moon of 2026.]]></itunes:subtitle>
+			<itunes:summary>We turn to the astronomy of Mesoamerica, with a particular focus on the Maya and Aztec. The central feature of their astronomy was a pair of interlocking calendars which regulated all aspects of life. The surviving Maya manuscripts also deal extensively with the motion of Venus, which may also have driven decisions to go to war. We also look at the famous Aztec Sun Stone, the 2012 phenomenon, and the fall of the Itz&#225; Kingdom.  NOTE: The Song of Urania will be going on hiatus and will return on the first full moon of 2026.</itunes:summary>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>47</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Joe Antognini</itunes:author>
+		</item>
 		<item>
 			<title>Episode 46: The Stars from Starboard</title>
 			<itunes:title>The Stars from Starboard</itunes:title>
