@@ -2,8 +2,8 @@
 	<channel>
 		<atom:link href="https://songofurania.com/rss" rel="self" type="application/rss+xml"/>
 		<title>The Song of Urania</title>
-		<pubDate>Tue, 25 Jun 2024 23:41:54 +0000</pubDate>
-		<lastBuildDate>Tue, 25 Jun 2024 23:41:54 +0000</lastBuildDate>
+		<pubDate>Sat, 02 Nov 2024 20:07:58 +0000</pubDate>
+		<lastBuildDate>Sat, 02 Nov 2024 20:07:58 +0000</lastBuildDate>
 		<link>https://songofurania.com</link>
 		<language>en</language>
 		<copyright><![CDATA[Creative Commons Attribution 4.0 International (CC BY 4.0)]]></copyright>
@@ -31,20 +31,100 @@
 		<itunes:subtitle><![CDATA[]]></itunes:subtitle>
 		<itunes:type>serial</itunes:type>
 		<item>
+			<title>Episode 47: Clock Around the Rock</title>
+			<itunes:title>Clock Around the Rock</itunes:title>
+			<pubDate>Sat, 02 Nov 2024 20:07:58 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[3027413e-84a9-4bf5-afb1-e279bc97da7b]]></guid>
+            <link><![CDATA[https://songofurania.com/episodes/047]]></link>
+			<itunes:image href="https://songofurania.com/images/logo.jpeg"/>
+			<description><![CDATA[<p>We turn to the astronomy of Mesoamerica, with a particular focus on the Maya and Aztec. The central feature of their astronomy was a pair of interlocking calendars which regulated all aspects of life. The surviving Maya manuscripts also deal extensively with the motion of Venus, which may also have driven decisions to go to war. We also look at the famous Aztec Sun Stone, the 2012 phenomenon, and the fall of the Itz&#225; Kingdom.  NOTE: The Song of Urania will be going on hiatus and will return on the first full moon of 2026.</p>]]></description>
+			<content:encoded><![CDATA[<p>We turn to the astronomy of Mesoamerica, with a particular focus on the Maya and Aztec. The central feature of their astronomy was a pair of interlocking calendars which regulated all aspects of life. The surviving Maya manuscripts also deal extensively with the motion of Venus, which may also have driven decisions to go to war. We also look at the famous Aztec Sun Stone, the 2012 phenomenon, and the fall of the Itz&#225; Kingdom.  NOTE: The Song of Urania will be going on hiatus and will return on the first full moon of 2026.</p>]]></content:encoded>
+            <enclosure length="105091687" type="audio/mpeg" url="https://storage.googleapis.com/song-of-urania/episodes/episode-047.mp3"/>
+			<itunes:duration>110:06</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords>astronomy,history</itunes:keywords>
+			<itunes:subtitle><![CDATA[We turn to the astronomy of Mesoamerica, with a particular focus on the Maya and Aztec. The central feature of their astronomy was a pair of interlocking calendars which regulated all aspects of life. The surviving Maya manuscripts also deal extensively with the motion of Venus, which may also have driven decisions to go to war. We also look at the famous Aztec Sun Stone, the 2012 phenomenon, and the fall of the Itz&#225; Kingdom.  NOTE: The Song of Urania will be going on hiatus and will return on the first full moon of 2026.]]></itunes:subtitle>
+			<itunes:summary>We turn to the astronomy of Mesoamerica, with a particular focus on the Maya and Aztec. The central feature of their astronomy was a pair of interlocking calendars which regulated all aspects of life. The surviving Maya manuscripts also deal extensively with the motion of Venus, which may also have driven decisions to go to war. We also look at the famous Aztec Sun Stone, the 2012 phenomenon, and the fall of the Itz&#225; Kingdom.  NOTE: The Song of Urania will be going on hiatus and will return on the first full moon of 2026.</itunes:summary>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>47</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Joe Antognini</itunes:author>
+		</item>
+		<item>
+			<title>Episode 46: The Stars from Starboard</title>
+			<itunes:title>The Stars from Starboard</itunes:title>
+			<pubDate>Sat, 28 Sep 2024 04:58:32 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[e3e3c0ec-6243-47c6-8a21-38d6df601f8b]]></guid>
+            <link><![CDATA[https://songofurania.com/episodes/046]]></link>
+			<itunes:image href="https://songofurania.com/images/logo.jpeg"/>
+			<description><![CDATA[<p>The most important application of astronomy in Polynesian societies was oceanic navigation. Polynesian navigators regularly traversed from one small island to another across hundreds of miles of open sea. To accomplish these feats of seafaring, they relied on an intimate knowledge of the night sky.</p>]]></description>
+			<content:encoded><![CDATA[<p>The most important application of astronomy in Polynesian societies was oceanic navigation. Polynesian navigators regularly traversed from one small island to another across hundreds of miles of open sea. To accomplish these feats of seafaring, they relied on an intimate knowledge of the night sky.</p>]]></content:encoded>
+            <enclosure length="61342273" type="audio/mpeg" url="https://storage.googleapis.com/song-of-urania/episodes/episode-046.mp3"/>
+			<itunes:duration>62:48</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords>astronomy,history</itunes:keywords>
+			<itunes:subtitle><![CDATA[The most important application of astronomy in Polynesian societies was oceanic navigation. Polynesian navigators regularly traversed from one small island to another across hundreds of miles of open sea. To accomplish these feats of seafaring, they relied on an intimate knowledge of the night sky.]]></itunes:subtitle>
+			<itunes:summary>The most important application of astronomy in Polynesian societies was oceanic navigation. Polynesian navigators regularly traversed from one small island to another across hundreds of miles of open sea. To accomplish these feats of seafaring, they relied on an intimate knowledge of the night sky.</itunes:summary>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>46</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Joe Antognini</itunes:author>
+		</item>
+		<item>
+			<title>Episode 45: Looking Up Down Under</title>
+			<itunes:title>Looking Up Down Under</itunes:title>
+			<pubDate>Sat, 24 Aug 2024 05:08:31 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[e9199dbb-d6e9-46ec-8139-710309655c88]]></guid>
+            <link><![CDATA[https://songofurania.com/episodes/045]]></link>
+			<itunes:image href="https://songofurania.com/images/logo.jpeg"/>
+			<description><![CDATA[<p>Aboriginal Australian societies are believed to be among the oldest continuous cultures on the planet. Some of their oral traditions appear to preserve a cultural memory of celestial events from multiple millennia in the past. Aboriginal Australians were also keen observers of the heavens and recognized phenomena both common and rare, from the solstices, to solar eclipses, to auroral sounds, and stellar variability.</p>]]></description>
+			<content:encoded><![CDATA[<p>Aboriginal Australian societies are believed to be among the oldest continuous cultures on the planet. Some of their oral traditions appear to preserve a cultural memory of celestial events from multiple millennia in the past. Aboriginal Australians were also keen observers of the heavens and recognized phenomena both common and rare, from the solstices, to solar eclipses, to auroral sounds, and stellar variability.</p>]]></content:encoded>
+            <enclosure length="62837364" type="audio/mpeg" url="https://storage.googleapis.com/song-of-urania/episodes/episode-045.mp3"/>
+			<itunes:duration>64:26</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords>astronomy,history</itunes:keywords>
+			<itunes:subtitle><![CDATA[Aboriginal Australian societies are believed to be among the oldest continuous cultures on the planet. Some of their oral traditions appear to preserve a cultural memory of celestial events from multiple millennia in the past. Aboriginal Australians were also keen observers of the heavens and recognized phenomena both common and rare, from the solstices, to solar eclipses, to auroral sounds, and stellar variability.]]></itunes:subtitle>
+			<itunes:summary>Aboriginal Australian societies are believed to be among the oldest continuous cultures on the planet. Some of their oral traditions appear to preserve a cultural memory of celestial events from multiple millennia in the past. Aboriginal Australians were also keen observers of the heavens and recognized phenomena both common and rare, from the solstices, to solar eclipses, to auroral sounds, and stellar variability.</itunes:summary>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>45</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Joe Antognini</itunes:author>
+		</item>
+		<item>
+			<title>Episode 44: Ad Maiorem Dei Gloriam Per Astra</title>
+			<itunes:title>Ad Maiorem Dei Gloriam Per Astra</itunes:title>
+			<pubDate>Sat, 20 Jul 2024 21:41:53 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[c0a3c5e5-6419-43df-a512-6568e2dfb0f2]]></guid>
+            <link><![CDATA[https://songofurania.com/episodes/044]]></link>
+			<itunes:image href="https://songofurania.com/images/logo.jpeg"/>
+			<description><![CDATA[<p>In his second attempt, Matteo Ricci was able to gain access to the Forbidden City. Over the next century, the Jesuits came to surprising influence in China through their knowledge of European astronomy, though this journey was not without its perils.</p>]]></description>
+			<content:encoded><![CDATA[<p>In his second attempt, Matteo Ricci was able to gain access to the Forbidden City. Over the next century, the Jesuits came to surprising influence in China through their knowledge of European astronomy, though this journey was not without its perils.</p>]]></content:encoded>
+            <enclosure length="57912294" type="audio/mpeg" url="https://storage.googleapis.com/song-of-urania/episodes/episode-044.mp3"/>
+			<itunes:duration>61:35</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords>astronomy,history</itunes:keywords>
+			<itunes:subtitle><![CDATA[In his second attempt, Matteo Ricci was able to gain access to the Forbidden City. Over the next century, the Jesuits came to surprising influence in China through their knowledge of European astronomy, though this journey was not without its perils.]]></itunes:subtitle>
+			<itunes:summary>In his second attempt, Matteo Ricci was able to gain access to the Forbidden City. Over the next century, the Jesuits came to surprising influence in China through their knowledge of European astronomy, though this journey was not without its perils.</itunes:summary>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>44</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Joe Antognini</itunes:author>
+		</item>
+		<item>
 			<title>Episode 43: When the Saint Comes Marching In</title>
 			<itunes:title>When the Saint Comes Marching In</itunes:title>
-			<pubDate>Tue, 25 Jun 2024 23:41:53 +0000</pubDate>
-			<guid isPermaLink="false"><![CDATA[4de88fed-0282-4c5d-9a59-b89b9a5c202c]]></guid>
+			<pubDate>Wed, 26 Jun 2024 03:09:40 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[c426d1e0-335b-4885-b41c-287e8d0f79ea]]></guid>
             <link><![CDATA[https://songofurania.com/episodes/043]]></link>
 			<itunes:image href="https://songofurania.com/images/logo.jpeg"/>
-			<description><![CDATA[<p>After the fall of the Mongol Yuan Dynasty, the newly founded Ming Dynasty drove the few small Nestorian Christian communities in China underground and largely closed the country off to foreigners. Only in the 16th century with the arrival of Portuguese traders did contacts with the West begin to be revived. The newly founded Jesuit order organized a mission to China led by Matteo Ricci. After finding his efforts at establishing a presence in the country stymied by the government, Ricci discovered that the key to securing a permanent Jesuit presence in China was his knowledge of Western astronomy.</p>]]></description>
-			<content:encoded><![CDATA[<p>After the fall of the Mongol Yuan Dynasty, the newly founded Ming Dynasty drove the few small Nestorian Christian communities in China underground and largely closed the country off to foreigners. Only in the 16th century with the arrival of Portuguese traders did contacts with the West begin to be revived. The newly founded Jesuit order organized a mission to China led by Matteo Ricci. After finding his efforts at establishing a presence in the country stymied by the government, Ricci discovered that the key to securing a permanent Jesuit presence in China was his knowledge of Western astronomy.</p>]]></content:encoded>
+			<description><![CDATA[<p>After the fall of the Mongol Yuan Dynasty, the Ming Dynasty drove the few small Nestorian Christian communities in China underground and largely closed China off to foreigners.  Only in the 16th century with the arrival of Portuguese traders did contacts with the West begin to be revived. The newly founded Jesuit order organized a mission to China led by Matteo Ricci. After finding his efforts at establishing a presence in the country stymied by the government, Ricci discovered that the key to securing a permanent Jesuit presence in China was his knowledge of Western astronomy.</p>]]></description>
+			<content:encoded><![CDATA[<p>After the fall of the Mongol Yuan Dynasty, the Ming Dynasty drove the few small Nestorian Christian communities in China underground and largely closed China off to foreigners.  Only in the 16th century with the arrival of Portuguese traders did contacts with the West begin to be revived. The newly founded Jesuit order organized a mission to China led by Matteo Ricci. After finding his efforts at establishing a presence in the country stymied by the government, Ricci discovered that the key to securing a permanent Jesuit presence in China was his knowledge of Western astronomy.</p>]]></content:encoded>
             <enclosure length="49482683" type="audio/mpeg" url="https://storage.googleapis.com/song-of-urania/episodes/episode-043.mp3"/>
 			<itunes:duration>49:24</itunes:duration>
 			<itunes:explicit>no</itunes:explicit>
 			<itunes:keywords>astronomy,history</itunes:keywords>
-			<itunes:subtitle><![CDATA[After the fall of the Mongol Yuan Dynasty, the newly founded Ming Dynasty drove the few small Nestorian Christian communities in China underground and largely closed the country off to foreigners. Only in the 16th century with the arrival of Portuguese traders did contacts with the West begin to be revived. The newly founded Jesuit order organized a mission to China led by Matteo Ricci. After finding his efforts at establishing a presence in the country stymied by the government, Ricci discovered that the key to securing a permanent Jesuit presence in China was his knowledge of Western astronomy.]]></itunes:subtitle>
-			<itunes:summary>After the fall of the Mongol Yuan Dynasty, the newly founded Ming Dynasty drove the few small Nestorian Christian communities in China underground and largely closed the country off to foreigners. Only in the 16th century with the arrival of Portuguese traders did contacts with the West begin to be revived. The newly founded Jesuit order organized a mission to China led by Matteo Ricci. After finding his efforts at establishing a presence in the country stymied by the government, Ricci discovered that the key to securing a permanent Jesuit presence in China was his knowledge of Western astronomy.</itunes:summary>
+			<itunes:subtitle><![CDATA[After the fall of the Mongol Yuan Dynasty, the Ming Dynasty drove the few small Nestorian Christian communities in China underground and largely closed China off to foreigners.  Only in the 16th century with the arrival of Portuguese traders did contacts with the West begin to be revived. The newly founded Jesuit order organized a mission to China led by Matteo Ricci. After finding his efforts at establishing a presence in the country stymied by the government, Ricci discovered that the key to securing a permanent Jesuit presence in China was his knowledge of Western astronomy.]]></itunes:subtitle>
+			<itunes:summary>After the fall of the Mongol Yuan Dynasty, the Ming Dynasty drove the few small Nestorian Christian communities in China underground and largely closed China off to foreigners.  Only in the 16th century with the arrival of Portuguese traders did contacts with the West begin to be revived. The newly founded Jesuit order organized a mission to China led by Matteo Ricci. After finding his efforts at establishing a presence in the country stymied by the government, Ricci discovered that the key to securing a permanent Jesuit presence in China was his knowledge of Western astronomy.</itunes:summary>
 			<itunes:season>1</itunes:season>
 			<itunes:episode>43</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
